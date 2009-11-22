@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta name="Content-Type" content="text/html; charset=UTF-8" />
+<title>Documentation by YARD 0.4.0</title>
+<link rel="stylesheet" href="css/style.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="css/common.css" type="text/css" media="screen" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  relpath = '';
+  if (relpath != '') relpath += '/';
+</script>
+<script type="text/javascript" charset="utf-8" src="js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/app.js"></script>
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a title="Index" href="_index.html">Index</a> &raquo; 
+    <span class="title">File: README</span>
+  
+</div>
+
+      <div id="search">
+  <a id="class_list_link" href="#">Namespace List</a>
+  <a id="method_list_link" href="#">Method List</a>
+  <a id ="file_list_link" href="#">File List</a>
+</div>
+
+      <div class="clear"></div>
+    </div>
+    
+    <iframe id="search_frame"></iframe>
+    
+    <div id="content"><div id='filecontents'><h1 id='sofa'>Sofa</h1>
+
+<p>A simple Ruby library for the TVRage API (viewable <a href='http://services.tvrage.com/index.php?page=public'>here</a>).</p>
+
+<h2 id='shows'>Shows</h2>
+
+<pre class="code">Sofa::TVRage::Show.by_name(&quot;Chuck&quot;)    # =&gt; #&lt;Sofa::TVRage::Show:0x101360d38 @name=&quot;Chuck&quot;, @show_id=&quot;15614&quot;, ...&gt;
+OR
+show = Sofa::TVRage::Show.new(&quot;15614&quot;) # =&gt; #&lt;Sofa::TVRage::Show:0x1012ec3c0 @name=&quot;Chuck&quot;, @show_id=&quot;15614&quot;, ...&gt;</pre>
+
+<h4 id='eager_loading_season_and_episode_info'>Eager loading Season and Episode info</h4>
+
+<pre class="code">Sofa::TVRage::Show.by_name(&quot;Chuck&quot;, :greedy =&gt; true)
+Sofa::TVRage::Show.new(&quot;15614&quot;, :greedy =&gt; true)</pre>
+
+<h4 id='attributes'>Attributes</h4>
+
+<pre class="code">show.show_id        # =&gt; &quot;15614&quot;
+show.name           # =&gt; &quot;Chuck&quot;
+show.show_link      # =&gt; &quot;http://tvrage.com/Chuck&quot;
+show.started        # =&gt; &quot;2007&quot;
+show.network        # =&gt; &quot;NBC&quot;
+show.air_time       # =&gt; &quot;20:00&quot;
+show.time_zone      # =&gt; &quot;GMT-5 -DST&quot;
+show.run_time       # =&gt; &quot;60&quot;
+show.origin_country # =&gt; &quot;US&quot;
+show.air_day        # =&gt; &quot;Monday&quot;
+show.ended          # =&gt; nil
+show.classification # =&gt; &quot;Scripted&quot;
+show.seasons        # =&gt; &quot;3&quot;
+show.start_date     # =&gt; &quot;Sep/24/2007&quot;
+show.status         # =&gt; &quot;Returning Series&quot;
+show.genres         # =&gt; [&quot;Action&quot;, &quot;Comedy&quot;, &quot;Drama&quot;]
+show.akas           # =&gt; &quot;Chuck&quot;</pre>
+
+<h2 id='seasons'>Seasons</h2>
+
+<pre class="code">show.season_list                # =&gt; [#&lt;Sofa::TVRage::Season:0x1022d0f98 @no=&quot;1&quot;, @episodes=[...]&gt;, 
+                                      #&lt;Sofa::TVRage::Season:0x1022c88c0 @no=&quot;2&quot;, @episodes=[...]&gt;, 
+                                      ...]
+season = show.season_list.first # =&gt; #&lt;Sofa::TVRage::Season:0x1022d0f98 @no=&quot;1&quot;, @episodes=[...]&gt;</pre>
+
+<h4 id='attributes'>Attributes</h4>
+
+<pre class="code">season.episodes                 # =&gt; [#&lt;Sofa::TVRage::Episode:0x1022d07a0 @title=&quot;Pilot&quot;, ...&gt;,
+                                      #&lt;Sofa::TVRage::Episode:0x1022cf148 @title=&quot;Chuck Versus the Helicopter&quot;, ...&gt;,
+                                      ...]
+season.no                       # =&gt; &quot;1&quot;</pre>
+
+<h2 id='episodes'>Episodes</h2>
+
+<pre class="code">show.episode_list                 # =&gt; [#&lt;Sofa::TVRage::Episode:0x1022d07a0 @title=&quot;Pilot&quot;, ...&gt;,
+                                        #&lt;Sofa::TVRage::Episode:0x1022cf148 @title=&quot;Chuck Versus the Helicopter&quot;, ...&gt;,
+                                        ...]
+episode = show.episode_list.first # =&gt; #&lt;Sofa::TVRage::Episode:0x1022d07a0 @title=&quot;Pilot&quot;, ...&gt; </pre>
+
+<h4 id='attributes'>Attributes</h4>
+
+<pre class="code">episode.title         # =&gt; &quot;Pilot&quot;
+episode.air_date      # =&gt; &quot;2007-09-24&quot;
+episode.num_in_season # =&gt; &quot;01&quot;
+episode.num           # =&gt; &quot;1&quot;
+episode.prod_num      # =&gt; &quot;101&quot;
+episode.link          # =&gt; &quot;http://www.tvrage.com/Chuck/episodes/579282&quot;</pre>
+
+<h2 id='contributing'>Contributing</h2>
+
+<ul>
+<li>Feel free to send feature/pull requests.</li>
+</ul>
+
+<h2 id='copyright'>Copyright</h2>
+
+<p>Copyright (c) 2009 Henry Hsu. See LICENSE for details.</p></div></div>
+    
+    <div id="footer">
+  Generated on Sat Nov 21 20:13:52 2009 by 
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool">yard</a>
+  0.4.0 (ruby-1.8.7).
+</div>
+
+  </body>
+</html>

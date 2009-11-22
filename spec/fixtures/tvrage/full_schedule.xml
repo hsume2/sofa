@@ -1,0 +1,4731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schedule>
+  <DAY attr="2009-11-13">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Jimmy Smits, Jamie Oliver</title>
+        <ep>21x30</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064868513</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Ryan Seacrest, the latest castoffs from "So You Think You Can Dance"</title>
+        <ep>07x49</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064869157</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Kool &amp; the Gang, Duff Goldman</title>
+        <ep>13x50</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064867869</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9274</title>
+        <ep>37x165</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064864949</link>
+      </show>
+    </time>
+    <time attr="01:00 pm">
+      <show name="Days of our Lives">
+        <network>NBC</network>
+        <title>Ep. #11208</title>
+        <ep>45x05</ep>
+        <link>http://www.tvrage.com/Days_of_our_Lives/episodes/1064871710</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5692</title>
+        <ep>23x168</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868190</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13646</title>
+        <ep>54x159</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867304</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10566</title>
+        <ep>42x87</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869102</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11934</title>
+        <ep>47x159</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866808</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Ghost Whisperer">
+        <network>CBS</network>
+        <title>Dead Listing</title>
+        <ep>05x08</ep>
+        <link>http://www.tvrage.com/Ghost_Whisperer/episodes/1064868119</link>
+      </show>
+      <show name="Law &amp; Order">
+        <network>NBC</network>
+        <title>For The Defense</title>
+        <ep>20x09</ep>
+        <link>http://www.tvrage.com/Law_And_Order/episodes/1064867585</link>
+      </show>
+      <show name="Smallville">
+        <network>The CW</network>
+        <title>Idol</title>
+        <ep>09x08</ep>
+        <link>http://www.tvrage.com/Smallville/episodes/1064840391</link>
+      </show>
+      <show name="The Suite Life on Deck">
+        <network>Disney Channel</network>
+        <title>Bermuda Triangle</title>
+        <ep>02x11</ep>
+        <link>http://www.tvrage.com/shows/id-18575/episodes/1064858701</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Batman: The Brave and The Bold">
+        <network>Cartoon Network</network>
+        <title>The Fate of Equinox!</title>
+        <ep>01x26</ep>
+        <link>http://www.tvrage.com/shows/id-20349/episodes/1064815887</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Medium">
+        <network>CBS</network>
+        <title>Once in a Lifetime</title>
+        <ep>06x08</ep>
+        <link>http://www.tvrage.com/Medium/episodes/1064867578</link>
+      </show>
+      <show name="Monk">
+        <network>USA</network>
+        <title>Mr. Monk Is the Best Man</title>
+        <ep>08x13</ep>
+        <link>http://www.tvrage.com/Monk/episodes/1064841342</link>
+      </show>
+      <show name="Ugly Betty">
+        <network>ABC</network>
+        <title>Backseat Betty</title>
+        <ep>04x06</ep>
+        <link>http://www.tvrage.com/Ugly_Betty/episodes/1064864431</link>
+      </show>
+      <show name="Stargate Universe">
+        <network>Syfy</network>
+        <title>Time</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/Stargate_Universe/episodes/782170</link>
+      </show>
+      <show name="Star Wars: The Clone Wars (2008)">
+        <network>Cartoon Network</network>
+        <title>Weapons Factory</title>
+        <ep>02x06</ep>
+        <link>http://www.tvrage.com/shows/id-19187/episodes/1064869677</link>
+      </show>
+      <show name="Ghost Adventures">
+        <network>Travel Channel</network>
+        <title>TBA</title>
+        <ep>02x11</ep>
+        <link>http://www.tvrage.com/shows/id-20338/episodes/1064842949</link>
+      </show>
+      <show name="Inside MMA">
+        <network>HDNet</network>
+        <title>Krzysztof Soszynski and Antonio Rodrigo Nogueira</title>
+        <ep>03x45</ep>
+        <link>http://www.tvrage.com/shows/id-23353/episodes/1064872494</link>
+      </show>
+      <show name="Ancients Behaving Badly">
+        <network>History Channel</network>
+        <title>Attila the Hun</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-24333/episodes/1064870726</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Ben 10: Alien Force">
+        <network>Cartoon Network</network>
+        <title>In Charm's Way</title>
+        <ep>03x09</ep>
+        <link>http://www.tvrage.com/shows/id-18699/episodes/1064870444</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Crash">
+        <network>Starz</network>
+        <title>Lovers In Captivity</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/Crash/episodes/1064857430</link>
+      </show>
+      <show name="Numb3rs">
+        <network>CBS</network>
+        <title>Ultimatum</title>
+        <ep>06x08</ep>
+        <link>http://www.tvrage.com/Numb3rs/episodes/1064854521</link>
+      </show>
+      <show name="Sanctuary (US)">
+        <network>Syfy</network>
+        <title>Veritas</title>
+        <ep>02x06</ep>
+        <link>http://www.tvrage.com/shows/id-18682/episodes/1064853782</link>
+      </show>
+      <show name="White Collar">
+        <network>USA</network>
+        <title>Flip of the Coin</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/White_Collar/episodes/1064869112</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Terrence Howard, Sheryl Crow</title>
+        <ep>01x45</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064870958</link>
+      </show>
+      <show name="Lock N' Load with R. Lee Ermey (2009)">
+        <network>History Channel</network>
+        <title>Bunker Busters</title>
+        <ep>01x13</ep>
+        <link>http://www.tvrage.com/shows/id-23305/episodes/1064855036</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Mariah Carey, Kumail Nanjiani</title>
+        <ep>16x245</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064868503</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Reese Witherspoon, Gabourey "Gabby" Sidibe, Kris Allen</title>
+        <ep>01x103</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064869156</link>
+      </show>
+    </time>
+    <time attr="12:00 am">
+      <show name="Life on Top">
+        <network>CineMax</network>
+        <title>Down For The Count</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-23946/episodes/1064857013</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Diddy, Super Dave Osborne, Huey Lewis &amp; the News</title>
+        <ep>07x159</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064867864</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Harry Connick Jr., Peter Sagal</title>
+        <ep>05x186</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064869080</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Amanda Peet, Steven Ward, Kid Sister</title>
+        <ep>01x149</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064869756</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Emmy Rossum, Zach Hyman, Crocodiles</title>
+        <ep>08x108</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064870012</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-14">
+    <time attr="09:00 am">
+      <show name="VSpot Top 20 Countdown">
+        <network>VH1</network>
+        <title>Season 7, Episode 46</title>
+        <ep>07x46</ep>
+        <link>http://www.tvrage.com/shows/id-6511/episodes/1064837645</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="This Old House">
+        <network>PBS</network>
+        <title>Newton Centre Project 06</title>
+        <ep>31x06</ep>
+        <link>http://www.tvrage.com/shows/id-6338/episodes/1064857353</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="Face The Ace">
+        <network>NBC</network>
+        <title>Episode 5</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-22648/episodes/1064810290</link>
+      </show>
+    </time>
+    <time attr="07:00 pm">
+      <show name="Focus Earth with Bob Woodruff">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>02x22</ep>
+        <link>http://www.tvrage.com/shows/id-23147/episodes/1064866170</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Cops">
+        <network>FOX</network>
+        <title>Stupid Behavior #4</title>
+        <ep>22x09</ep>
+        <link>http://www.tvrage.com/Cops/episodes/1064872545</link>
+      </show>
+      <show name="ABC Saturday Night College Football">
+        <network>ABC</network>
+        <title>TBA</title>
+        <ep>04x09</ep>
+        <link>http://www.tvrage.com/shows/id-11226/episodes/1064833895</link>
+      </show>
+      <show name="iCarly">
+        <network>Nickelodeon</network>
+        <title>iFind Lewbert's Lost Love</title>
+        <ep>03x06</ep>
+        <link>http://www.tvrage.com/shows/id-15498/episodes/1064872720</link>
+      </show>
+      <show name="Legend of the Seeker">
+        <network>Syndicated</network>
+        <title>Baneling</title>
+        <ep>02x02</ep>
+        <link>http://www.tvrage.com/Legend_of_the_Seeker/episodes/1064870998</link>
+      </show>
+      <show name="Top 20 Most Shocking">
+        <network>truTV</network>
+        <title>Practical Jokers Gone Wild</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-24227/episodes/1064864699</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="America's Most Wanted">
+        <network>FOX</network>
+        <title>On the Streets Special Edition</title>
+        <ep>23x07</ep>
+        <link>http://www.tvrage.com/Americas_Most_Wanted/episodes/1064872492</link>
+      </show>
+      <show name="Austin City Limits">
+        <network>PBS</network>
+        <title>Willie Nelson and Asleep at the Wheel</title>
+        <ep>35x07</ep>
+        <link>http://www.tvrage.com/Austin_City_Limits/episodes/1064864144</link>
+      </show>
+      <show name="Dallas Cowboys Cheerleaders: Making the Team">
+        <network>CMT</network>
+        <title>Episode 406</title>
+        <ep>04x06</ep>
+        <link>http://www.tvrage.com/shows/id-13782/episodes/1064844643</link>
+      </show>
+      <show name="The Academy (US)">
+        <network>Fox Reality</network>
+        <title>Season 3, Episode 4</title>
+        <ep>03x04</ep>
+        <link>http://www.tvrage.com/shows/id-15936/episodes/1064813670</link>
+      </show>
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Pilot: Season 1, Episode 1</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814025</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="The Wanda Sykes Show">
+        <network>FOX</network>
+        <title>Season 1, Episode 2</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-22792/episodes/1064871655</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="Saturday Night Live">
+        <network>NBC</network>
+        <title>January Jones/Black Eyed Peas</title>
+        <ep>35x06</ep>
+        <link>http://www.tvrage.com/Saturday_Night_Live/episodes/1064869741</link>
+      </show>
+    </time>
+    <time attr="12:00 am">
+      <show name="Sit Down, Shut Up">
+        <network>FOX</network>
+        <title>SpEd</title>
+        <ep>01x12</ep>
+        <link>http://www.tvrage.com/Sit_Down_Shut_Up/episodes/1064835405</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-15">
+    <time attr="12:00 pm">
+      <show name="The Venture Bros.">
+        <network>Adult Swim</network>
+        <title>The Revenge Society</title>
+        <ep>04x05</ep>
+        <link>http://www.tvrage.com/The_Venture_Bros/episodes/1064869421</link>
+      </show>
+    </time>
+    <time attr="07:00 pm">
+      <show name="America's Funniest Home Videos">
+        <network>ABC</network>
+        <title>Episode 2007</title>
+        <ep>20x07</ep>
+        <link>http://www.tvrage.com/Americas_Funniest_Home_Videos/episodes/1064850712</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="The Amazing Race">
+        <network>CBS</network>
+        <title>We’re Not Meant for the Swamp (Sweden to Estonia)</title>
+        <ep>15x08</ep>
+        <link>http://www.tvrage.com/The_Amazing_Race/episodes/1064866376</link>
+      </show>
+      <show name="The Simpsons">
+        <network>FOX</network>
+        <title>The Devil Wears Nada</title>
+        <ep>21x05</ep>
+        <link>http://www.tvrage.com/The_Simpsons/episodes/1064824040</link>
+      </show>
+      <show name="Sonny With A Chance">
+        <network>Disney Channel</network>
+        <title>Season 1, Episode 19</title>
+        <ep>01x19</ep>
+        <link>http://www.tvrage.com/shows/id-19770/episodes/1064872981</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Arrival</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064855939</link>
+      </show>
+      <show name="Dallas Divas &amp; Daughters">
+        <network>Style</network>
+        <title>Finding Mr. Wrong</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-24062/episodes/1064872497</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>New England Patriots at Indianapolis Colts</title>
+        <ep>04x10</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812581</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="The Cleveland Show">
+        <network>FOX</network>
+        <title>Ladies' Night</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-18740/episodes/777750</link>
+      </show>
+      <show name="Sonny With A Chance">
+        <network>Disney Channel</network>
+        <title>Season 1, Episode 19</title>
+        <ep>01x20</ep>
+        <link>http://www.tvrage.com/shows/id-19770/episodes/1064872979</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Curb Your Enthusiasm">
+        <network>HBO</network>
+        <title>The Table Read</title>
+        <ep>07x09</ep>
+        <link>http://www.tvrage.com/Curb_Your_Enthusiasm/episodes/1064869292</link>
+      </show>
+      <show name="Desperate Housewives">
+        <network>ABC</network>
+        <title>The Coffee Cup</title>
+        <ep>06x08</ep>
+        <link>http://www.tvrage.com/Desperate_Housewives/episodes/1064864424</link>
+      </show>
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Quagmire's Baby</title>
+        <ep>08x06</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825223</link>
+      </show>
+      <show name="Dexter">
+        <network>Showtime</network>
+        <title>Road Kill</title>
+        <ep>04x08</ep>
+        <link>http://www.tvrage.com/Dexter/episodes/1064854574</link>
+      </show>
+      <show name="Sonny With A Chance">
+        <network>Disney Channel</network>
+        <title>Cookie Monsters</title>
+        <ep>01x20</ep>
+        <link>http://www.tvrage.com/shows/id-19770/episodes/1064872982</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Harmony</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064858699</link>
+      </show>
+      <show name="Three Rivers">
+        <network>CBS</network>
+        <title>The Luckiest Man</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-22754/episodes/1064871329</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="American Dad!">
+        <network>FOX</network>
+        <title>Shallow Vows</title>
+        <ep>05x06</ep>
+        <link>http://www.tvrage.com/American_Dad/episodes/1064826071</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Cold Case">
+        <network>CBS</network>
+        <title>Read Between the Lines</title>
+        <ep>07x07</ep>
+        <link>http://www.tvrage.com/Cold_Case/episodes/1064853182</link>
+      </show>
+      <show name="Brothers &amp; Sisters">
+        <network>ABC</network>
+        <title>The Wine Festival</title>
+        <ep>04x08</ep>
+        <link>http://www.tvrage.com/Brothers_And_Sisters/episodes/1064860343</link>
+      </show>
+      <show name="Californication">
+        <network>Showtime</network>
+        <title>The Apartment</title>
+        <ep>03x08</ep>
+        <link>http://www.tvrage.com/Californication/episodes/1064867032</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="Sex Rehab with Dr. Drew">
+        <network>VH1</network>
+        <title>Season 1, Episode 3</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-23651/episodes/1064871653</link>
+      </show>
+    </time>
+    <time attr="12:30 am">
+      <show name="Metalocalypse">
+        <network>Adult Swim</network>
+        <title>TributeKlok</title>
+        <ep>03x02</ep>
+        <link>http://www.tvrage.com/Metalocalypse/episodes/1064871381</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-16">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Anderson Cooper, the Hayes family</title>
+        <ep>21x31</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064870466</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Dakota Fanning, Diddy</title>
+        <ep>07x50</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064871223</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Shakira</title>
+        <ep>13x51</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064871218</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9275</title>
+        <ep>37x166</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871864</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5693</title>
+        <ep>23x169</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868191</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13647</title>
+        <ep>54x160</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867305</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10567</title>
+        <ep>42x88</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869103</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11935</title>
+        <ep>47x160</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866810</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>Baltimore Ravens at Cleveland Browns</title>
+        <ep>40x11</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812599</link>
+      </show>
+      <show name="Dancing With the Stars (US)">
+        <network>ABC</network>
+        <title>Season 9, Episode 18</title>
+        <ep>09x18</ep>
+        <link>http://www.tvrage.com/Dancing_With_the_Stars_US/episodes/1064844672</link>
+      </show>
+      <show name="House">
+        <network>FOX</network>
+        <title>Teamwork</title>
+        <ep>06x07</ep>
+        <link>http://www.tvrage.com/House/episodes/1064863628</link>
+      </show>
+      <show name="How I Met Your Mother">
+        <network>CBS</network>
+        <title>The Playbook</title>
+        <ep>05x08</ep>
+        <link>http://www.tvrage.com/How_I_Met_Your_Mother/episodes/1064842867</link>
+      </show>
+      <show name="One Tree Hill">
+        <network>The CW</network>
+        <title>You Are A Runner And I Am My Father's Son</title>
+        <ep>07x10</ep>
+        <link>http://www.tvrage.com/One_Tree_Hill/episodes/1064869341</link>
+      </show>
+      <show name="Heroes">
+        <network>NBC</network>
+        <title>Brother's Keeper</title>
+        <ep>04x10</ep>
+        <link>http://www.tvrage.com/Heroes/episodes/1064869745</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Anvil</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064858700</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Accidentally on Purpose">
+        <network>CBS</network>
+        <title>The Third Man</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-22771/episodes/1064867558</link>
+      </show>
+      <show name="Zeke and Luther">
+        <network>Disney XD</network>
+        <title>Rollerdorks</title>
+        <ep>02x06</ep>
+        <link>http://www.tvrage.com/shows/id-23035/episodes/1064871676</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Two and a Half Men">
+        <network>CBS</network>
+        <title>Gorp. Fnark. Schmegle.</title>
+        <ep>07x08</ep>
+        <link>http://www.tvrage.com/Two_and_a_Half_Men/episodes/1064868880</link>
+      </show>
+      <show name="Gossip Girl">
+        <network>The CW</network>
+        <title>The Last Days of Disco Stick</title>
+        <ep>03x10</ep>
+        <link>http://www.tvrage.com/Gossip_Girl/episodes/1064867028</link>
+      </show>
+      <show name="Lie to Me">
+        <network>FOX</network>
+        <title>Black Friday</title>
+        <ep>02x07</ep>
+        <link>http://www.tvrage.com/Lie_to_Me/episodes/1064868882</link>
+      </show>
+      <show name="Trauma">
+        <network>NBC</network>
+        <title>M'Aidez</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/Trauma/episodes/1064871328</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Darling</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064870135</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="The Big Bang Theory">
+        <network>CBS</network>
+        <title>The Adhesive Duck Deficiency</title>
+        <ep>03x08</ep>
+        <link>http://www.tvrage.com/The_Big_Bang_Theory/episodes/1064852481</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Point of Impact</title>
+        <ep>08x08</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064806997</link>
+      </show>
+      <show name="Three Sheets">
+        <network>Fine Living</network>
+        <title>Tahiti</title>
+        <ep>04x15</ep>
+        <link>http://www.tvrage.com/shows/id-14813/episodes/1064869705</link>
+      </show>
+      <show name="Diners, Drive-Ins and Dives">
+        <network>Food Network</network>
+        <title>Legacies</title>
+        <ep>07x13</ep>
+        <link>http://www.tvrage.com/shows/id-16247/episodes/1064872268</link>
+      </show>
+      <show name="Castle (2009)">
+        <network>ABC</network>
+        <title>Love Me Dead</title>
+        <ep>02x09</ep>
+        <link>http://www.tvrage.com/Castle/episodes/1064842860</link>
+      </show>
+      <show name="Cake Boss">
+        <network>TLC</network>
+        <title>Children, a Cage, and a Challenge</title>
+        <ep>02x06</ep>
+        <link>http://www.tvrage.com/shows/id-22395/episodes/1064871356</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Taylor Lautner, Heather Locklear</title>
+        <ep>01x46</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064871638</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="The Daily Show">
+        <network>Comedy Central</network>
+        <title>Jake Adelstein</title>
+        <ep>14x148</ep>
+        <link>http://www.tvrage.com/The_Daily_Show/episodes/1064872809</link>
+      </show>
+      <show name="Chelsea Lately">
+        <network>E!</network>
+        <title>Kathy Griffin, Josh Wolf, Ben Gleib, Natasha Leggero</title>
+        <ep>03x195</ep>
+        <link>http://www.tvrage.com/shows/id-18095/episodes/1064871727</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="The Colbert Report">
+        <network>Comedy Central</network>
+        <title>Paul Goldberger</title>
+        <ep>05x147</ep>
+        <link>http://www.tvrage.com/The_Colbert_Report/episodes/1064872504</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Sharon Stone, Seth Meyers</title>
+        <ep>16x246</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064871210</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Kristen Stewart, Judd Apatow, Carrie Underwood</title>
+        <ep>01x104</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064870718</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>LL Cool J, Mindy Kaling, Ben Harper &amp; Relentless7</title>
+        <ep>05x187</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064870959</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Tim McGraw, Anna Torv, Josh Capon</title>
+        <ep>01x150</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064872499</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-17">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Keanu Reeves, Heidi &amp; Spencer Pratt</title>
+        <ep>21x32</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064870467</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Dwayne Johnson, Brian Williams, 12-year-old singer Rhap Salazar</title>
+        <ep>07x51</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064871225</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Sandra Bullock, Tim McGraw, Quinton Aaron, Morena Bacccarin</title>
+        <ep>13x52</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064871219</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9276</title>
+        <ep>37x167</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871865</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5694</title>
+        <ep>23x170</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868192</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13648</title>
+        <ep>54x161</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867306</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10568</title>
+        <ep>42x89</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869104</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11936</title>
+        <ep>47x161</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866811</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="NCIS">
+        <network>CBS</network>
+        <title>Power Down</title>
+        <ep>07x08</ep>
+        <link>http://www.tvrage.com/NCIS/episodes/1064854548</link>
+      </show>
+      <show name="The Biggest Loser">
+        <network>NBC</network>
+        <title>Season 8, Episode 10</title>
+        <ep>08x10</ep>
+        <link>http://www.tvrage.com/The_Biggest_Loser/episodes/1064872488</link>
+      </show>
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>Becoming Human: Last Human Standing</title>
+        <ep>37x06</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064862989</link>
+      </show>
+      <show name="90210">
+        <network>The CW</network>
+        <title>To Thine Own Self Be True</title>
+        <ep>02x10</ep>
+        <link>http://www.tvrage.com/90210/episodes/1064870376</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Schizoid</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064870136</link>
+      </show>
+      <show name="V (2009)">
+        <network>ABC</network>
+        <title>A Bright New Day</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-22814/episodes/1064870133</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dancing With the Stars (US)">
+        <network>ABC</network>
+        <title>Season 9, Episode 19</title>
+        <ep>09x19</ep>
+        <link>http://www.tvrage.com/Dancing_With_the_Stars_US/episodes/1064844673</link>
+      </show>
+      <show name="Dirty Jobs">
+        <network>Discovery Channel</network>
+        <title>Rocky Reach Dam</title>
+        <ep>05x17</ep>
+        <link>http://www.tvrage.com/Dirty_Jobs/episodes/1064868549</link>
+      </show>
+      <show name="NCIS: Los Angeles">
+        <network>CBS</network>
+        <title>Ambush</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/NCIS-Los_Angeles/episodes/1064854551</link>
+      </show>
+      <show name="Melrose Place (2009)">
+        <network>The CW</network>
+        <title>Cahuenga</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/shows/id-22022/episodes/1064848243</link>
+      </show>
+      <show name="The Prisoner (2009)">
+        <network>AMC</network>
+        <title>Checkmate</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-22396/episodes/1064870137</link>
+      </show>
+      <show name="E2 Design">
+        <network>Sundance</network>
+        <title>Season 1, Episode 3</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-22676/episodes/1064819689</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Secret Lives Of Women">
+        <network>WE</network>
+        <title>Dirty Work</title>
+        <ep>05x14</ep>
+        <link>http://www.tvrage.com/Secret_Lives_Of_Women/episodes/1064842459</link>
+      </show>
+      <show name="Sons of Anarchy">
+        <network>FX</network>
+        <title>Service</title>
+        <ep>02x11</ep>
+        <link>http://www.tvrage.com/Sons_of_Anarchy/episodes/1064835394</link>
+      </show>
+      <show name="The Good Wife">
+        <network>CBS</network>
+        <title>Unprepared</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-22755/episodes/1064868877</link>
+      </show>
+      <show name="The Forgotten (2009)">
+        <network>ABC</network>
+        <title>Prisoner Jane</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-22757/episodes/1064859669</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Tyra Banks, the latest "Biggest Loser" castoff, Arsenio Hall</title>
+        <ep>01x47</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064871639</link>
+      </show>
+      <show name="Sherri">
+        <network>Lifetime</network>
+        <title>The Game Changer</title>
+        <ep>01x11</ep>
+        <link>http://www.tvrage.com/shows/id-23552/episodes/1064867875</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="The Daily Show">
+        <network>Comedy Central</network>
+        <title>Vice President Joe Biden</title>
+        <ep>14x149</ep>
+        <link>http://www.tvrage.com/The_Daily_Show/episodes/1064872810</link>
+      </show>
+      <show name="Chelsea Lately">
+        <network>E!</network>
+        <title>Julie Bowen, Randy Sklar, Jason Sklar, Matt Braunger</title>
+        <ep>03x196</ep>
+        <link>http://www.tvrage.com/shows/id-18095/episodes/1064871728</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="The Colbert Report">
+        <network>Comedy Central</network>
+        <title>Malcolm Gladwell</title>
+        <ep>05x148</ep>
+        <link>http://www.tvrage.com/The_Colbert_Report/episodes/1064872505</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Penelope Cruz, the Script</title>
+        <ep>16x247</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064871211</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>50 Cent, Jane Lynch</title>
+        <ep>01x105</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064870719</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>John Stamos, Emily VanCamp, the latest "Dancing with the Stars" castoff, OneRepublic</title>
+        <ep>07x160</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064870013</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Woody Harrelson, Joe Theismann</title>
+        <ep>05x188</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064870960</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Cheech and Chong, Neko Case</title>
+        <ep>01x151</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064872500</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Chuck Klosterman</title>
+        <ep>08x109</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872124</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-18">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Kristen Stewart, Kris Allen</title>
+        <ep>21x33</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064870468</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Carrie Underwood, Kellan Lutz</title>
+        <ep>07x52</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064871226</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Jaclyn Smith, Sofia Vergara</title>
+        <ep>13x53</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064871220</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9277</title>
+        <ep>37x168</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871866</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5695</title>
+        <ep>23x171</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868193</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13649</title>
+        <ep>54x162</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867307</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10569</title>
+        <ep>42x90</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869105</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11937</title>
+        <ep>47x162</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866812</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="America's Next Top Model">
+        <network>The CW</network>
+        <title>America's Next Top Model is...</title>
+        <ep>13x12</ep>
+        <link>http://www.tvrage.com/Americas_Next_Top_Model/episodes/1064872267</link>
+      </show>
+      <show name="So You Think You Can Dance">
+        <network>FOX</network>
+        <title>Fan-Favorite Routines</title>
+        <ep>S06-Special</ep>
+        <link>http://www.tvrage.com/So_You_Think_You_Can_Dance/episodes/1064841607</link>
+      </show>
+      <show name="Megabuilders">
+        <network>Discovery Channel</network>
+        <title>King of the Container Ships</title>
+        <ep>04x06</ep>
+        <link>http://www.tvrage.com/Megabuilders/episodes/1064852230</link>
+      </show>
+      <show name="Most Shocking">
+        <network>truTV</network>
+        <title>TBA</title>
+        <ep>07x09</ep>
+        <link>http://www.tvrage.com/Most_Shocking/episodes/1064840426</link>
+      </show>
+      <show name="Mercy">
+        <network>NBC</network>
+        <title>I'm Not That Kind of Girl</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/Mercy/episodes/1064872872</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Gary Unmarried">
+        <network>CBS</network>
+        <title>Gary Apologizes</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/Gary_Unmarried/episodes/1064868875</link>
+      </show>
+      <show name="The Middle">
+        <network>ABC</network>
+        <title>The Scratch</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-20678/episodes/1064871118</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Criminal Minds">
+        <network>CBS</network>
+        <title>Outfoxed</title>
+        <ep>05x08</ep>
+        <link>http://www.tvrage.com/Criminal_Minds/episodes/1064854870</link>
+      </show>
+      <show name="Ghost Hunters">
+        <network>Syfy</network>
+        <title>Pensacola Lighthous</title>
+        <ep>05x23</ep>
+        <link>http://www.tvrage.com/Ghost_Hunters/episodes/1064871642</link>
+      </show>
+      <show name="Law &amp; Order: Special Victims Unit">
+        <network>NBC</network>
+        <title>Perverted</title>
+        <ep>11x09</ep>
+        <link>http://www.tvrage.com/Law_And_Order_SVU/episodes/1064854519</link>
+      </show>
+      <show name="MythBusters">
+        <network>Discovery Channel</network>
+        <title>Myth Evolution</title>
+        <ep>07x18</ep>
+        <link>http://www.tvrage.com/MythBusters/episodes/1064871353</link>
+      </show>
+      <show name="Friday Night Lights">
+        <network>DIRECTV</network>
+        <title>A Sort of Homecoming</title>
+        <ep>04x04</ep>
+        <link>http://www.tvrage.com/Friday_Night_Lights/episodes/1064868815</link>
+      </show>
+      <show name="The Spectacular Spider-Man">
+        <network>Disney XD</network>
+        <title>Opening Night</title>
+        <ep>02x12</ep>
+        <link>http://www.tvrage.com/shows/id-15237/episodes/769718</link>
+      </show>
+      <show name="Living With Ed">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>03x05</ep>
+        <link>http://www.tvrage.com/Living_With_Ed/episodes/1064845540</link>
+      </show>
+      <show name="Glee">
+        <network>FOX</network>
+        <title>Ballad</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/Glee/episodes/1064852788</link>
+      </show>
+      <show name="Modern Family">
+        <network>ABC</network>
+        <title>Great Expectations</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-22622/episodes/1064870442</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="The Spectacular Spider-Man">
+        <network>Disney XD</network>
+        <title>Final Curtain</title>
+        <ep>02x13</ep>
+        <link>http://www.tvrage.com/shows/id-15237/episodes/769719</link>
+      </show>
+      <show name="Cougar Town">
+        <network>ABC</network>
+        <title>Two Gunslingers</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-22626/episodes/1064870379</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: NY">
+        <network>CBS</network>
+        <title>Cuckoo's Nest</title>
+        <ep>06x08</ep>
+        <link>http://www.tvrage.com/CSI_NY/episodes/1064852310</link>
+      </show>
+      <show name="South Park">
+        <network>Comedy Central</network>
+        <title>TBA</title>
+        <ep>13x14</ep>
+        <link>http://www.tvrage.com/South_Park/episodes/1064853134</link>
+      </show>
+      <show name="The Ultimate Fighter">
+        <network>Spike TV</network>
+        <title>Heavyweights #10</title>
+        <ep>10x10</ep>
+        <link>http://www.tvrage.com/The_Ultimate_Fighter/episodes/1064840482</link>
+      </show>
+      <show name="Dinner: Impossible">
+        <network>Food Network</network>
+        <title>Newseum: Museum Mayhem</title>
+        <ep>07x12</ep>
+        <link>http://www.tvrage.com/shows/id-16914/episodes/1064872734</link>
+      </show>
+      <show name="Ghost Hunters Academy">
+        <network>Syfy</network>
+        <title>The Honeymoon's Over</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-20394/episodes/1064855941</link>
+      </show>
+      <show name="Tyler Perry's Meet the Browns">
+        <network>TBS</network>
+        <title>Meet the Great Guy</title>
+        <ep>03x05</ep>
+        <link>http://www.tvrage.com/shows/id-20623/episodes/1064855220</link>
+      </show>
+      <show name="Man v. Food">
+        <network>Travel Channel</network>
+        <title>Anchorage, AK</title>
+        <ep>02x16</ep>
+        <link>http://www.tvrage.com/shows/id-20717/episodes/1064866468</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Larry the Cable Guy, Mikey Day</title>
+        <ep>01x48</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064871640</link>
+      </show>
+      <show name="Bank of Mom and Dad">
+        <network>SOAPNet</network>
+        <title>Julie</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-23462/episodes/1064867883</link>
+      </show>
+      <show name="Man Shops Globe">
+        <network>Sundance</network>
+        <title>TBA</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-23466/episodes/1064844623</link>
+      </show>
+      <show name="Nature, Inc.">
+        <network>Planet Green</network>
+        <title>Finale</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-23540/episodes/1064845536</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="Tyler Perry's Meet the Browns">
+        <network>TBS</network>
+        <title>Meet the Saboteurs</title>
+        <ep>03x06</ep>
+        <link>http://www.tvrage.com/shows/id-20623/episodes/1064855221</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="The Daily Show">
+        <network>Comedy Central</network>
+        <title>Lou Dobbs</title>
+        <ep>14x150</ep>
+        <link>http://www.tvrage.com/The_Daily_Show/episodes/1064872811</link>
+      </show>
+      <show name="Chelsea Lately">
+        <network>E!</network>
+        <title>Ross Mathews, Jeff Wild, Sarah Colonna</title>
+        <ep>03x197</ep>
+        <link>http://www.tvrage.com/shows/id-18095/episodes/1064871729</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="The Colbert Report">
+        <network>Comedy Central</network>
+        <title>Norah Jones</title>
+        <ep>05x149</ep>
+        <link>http://www.tvrage.com/The_Colbert_Report/episodes/1064872506</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Stupid human tricks, Robert Pattinson, Ray Davies</title>
+        <ep>16x248</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064871212</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Seth Green, Heidi Montag &amp; Spencer Pratt, the Brian Setzer Orchestra</title>
+        <ep>01x106</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064870720</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>50 Cent, Marv Albert</title>
+        <ep>07x161</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064870014</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>David Duchovny, Lewis Black</title>
+        <ep>05x189</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064870961</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Kristen Stewart, Brothers</title>
+        <ep>01x152</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064872501</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>David Plouffe</title>
+        <ep>08x110</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872125</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-19">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Robert Pattinson, the winner of "America's Next Top Model"</title>
+        <ep>21x34</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064870469</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Simon Baker, Leona Lewis, Andre Agassi</title>
+        <ep>07x53</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064871227</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>John Stamos, Katey Sagal, the latest castoff from "Dancing With the Stars"</title>
+        <ep>13x54</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064871221</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9278</title>
+        <ep>37x169</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871867</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5696</title>
+        <ep>23x172</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868194</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13650</title>
+        <ep>54x163</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867308</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10570</title>
+        <ep>42x91</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869106</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11938</title>
+        <ep>47x163</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866813</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Bones">
+        <network>FOX</network>
+        <title>The Foot in the Foreclosure</title>
+        <ep>05x08</ep>
+        <link>http://www.tvrage.com/Bones/episodes/1064852711</link>
+      </show>
+      <show name="Survivor">
+        <network>CBS</network>
+        <title>Season 19, Episode 10</title>
+        <ep>19x10</ep>
+        <link>http://www.tvrage.com/Survivor/episodes/1064866383</link>
+      </show>
+      <show name="FlashForward">
+        <network>ABC</network>
+        <title>Believe</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/FlashForward/episodes/1064863645</link>
+      </show>
+      <show name="The Vampire Diaries">
+        <network>The CW</network>
+        <title>The Turning Point</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/The_Vampire_Diaries/episodes/1064865962</link>
+      </show>
+      <show name="WWE Superstars">
+        <network>WGN</network>
+        <title>Season 1, Episode 32</title>
+        <ep>01x32</ep>
+        <link>http://www.tvrage.com/shows/id-22359/episodes/1064801106</link>
+      </show>
+      <show name="Community">
+        <network>NBC</network>
+        <title>Environmental Science</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064870970</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Parks and Recreation">
+        <network>NBC</network>
+        <title>Hunting Trip</title>
+        <ep>02x10</ep>
+        <link>http://www.tvrage.com/Parks_and_Recreation/episodes/1064873090</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="CSI: Crime Scene Investigation">
+        <network>CBS</network>
+        <title>Lover's Lanes</title>
+        <ep>10x08</ep>
+        <link>http://www.tvrage.com/CSI/episodes/1064817324</link>
+      </show>
+      <show name="Grey's Anatomy">
+        <network>ABC</network>
+        <title>Holidaze</title>
+        <ep>06x10</ep>
+        <link>http://www.tvrage.com/Greys_Anatomy/episodes/1064870125</link>
+      </show>
+      <show name="Supernatural">
+        <network>The CW</network>
+        <title>Abandon All Hope...</title>
+        <ep>05x10</ep>
+        <link>http://www.tvrage.com/Supernatural/episodes/1064863308</link>
+      </show>
+      <show name="The Office">
+        <network>NBC</network>
+        <title>Shareholders Meeting</title>
+        <ep>06x10</ep>
+        <link>http://www.tvrage.com/The_Office/episodes/1064854791</link>
+      </show>
+      <show name="Fringe">
+        <network>FOX</network>
+        <title>August</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/Fringe/episodes/1064865024</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="It's Always Sunny in Philadelphia">
+        <network>FX</network>
+        <title>D.E.N.N.I.S.</title>
+        <ep>05x10</ep>
+        <link>http://www.tvrage.com/Its_Always_Sunny_in_Philadelphia/episodes/1064818118</link>
+      </show>
+      <show name="Project Runway">
+        <network>Lifetime</network>
+        <title>Finale (2)</title>
+        <ep>06x13</ep>
+        <link>http://www.tvrage.com/Project_Runway/episodes/1064871266</link>
+      </show>
+      <show name="The Mentalist">
+        <network>CBS</network>
+        <title>His Right Red Hand</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/The_Mentalist/episodes/1064865147</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Dakota Fanning, Jane Krakowski</title>
+        <ep>01x49</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064871641</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="The Daily Show">
+        <network>Comedy Central</network>
+        <title>Jack's Mannequin</title>
+        <ep>14x147</ep>
+        <link>http://www.tvrage.com/The_Daily_Show/episodes/1064872745</link>
+      </show>
+      <show name="Chelsea Lately">
+        <network>E!</network>
+        <title>50 Cent, Jo Koy, Chris Franjola, Heather McDonald</title>
+        <ep>03x198</ep>
+        <link>http://www.tvrage.com/shows/id-18095/episodes/1064871730</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="The Colbert Report">
+        <network>Comedy Central</network>
+        <title>Elvis Costello</title>
+        <ep>05x150</ep>
+        <link>http://www.tvrage.com/The_Colbert_Report/episodes/1064872507</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Stephen Colbert, John Mayer</title>
+        <ep>16x249</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064871214</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Nicole Kidman, Anderson Cooper, Leona Lewis</title>
+        <ep>01x107</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064871216</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Carrie Underwood, Heidi Montag &amp; Spencer Pratt</title>
+        <ep>07x162</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064870015</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Sandra Bullock, Ben Foster</title>
+        <ep>05x190</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064870962</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Taylor Lautner, Katey Sagal</title>
+        <ep>01x153</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064872502</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Bill Simmons</title>
+        <ep>08x111</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872126</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-20">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Penelope Cruz, Taylor Lautner</title>
+        <ep>21x35</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064870470</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Robert Pattinson, 13-year-old violinist Justus Rivera</title>
+        <ep>07x54</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064871228</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Joseph Califano, Emily Osment</title>
+        <ep>13x55</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064871222</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9279</title>
+        <ep>37x170</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871868</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5697</title>
+        <ep>23x173</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868195</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13651</title>
+        <ep>54x164</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867309</link>
+      </show>
+      <show name="One Life to Live">
+        <network>ABC</network>
+        <title>Ep. #10571</title>
+        <ep>42x92</ep>
+        <link>http://www.tvrage.com/One_Life_to_Live/episodes/1064869107</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="General Hospital (US)">
+        <network>ABC</network>
+        <title>#11939</title>
+        <ep>47x164</ep>
+        <link>http://www.tvrage.com/General_Hospital_US/episodes/1064866814</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Ghost Whisperer">
+        <network>CBS</network>
+        <title>Lost in the Shadows</title>
+        <ep>05x09</ep>
+        <link>http://www.tvrage.com/Ghost_Whisperer/episodes/1064868876</link>
+      </show>
+      <show name="Law &amp; Order">
+        <network>NBC</network>
+        <title>Shotgun</title>
+        <ep>20x10</ep>
+        <link>http://www.tvrage.com/Law_And_Order/episodes/1064871705</link>
+      </show>
+      <show name="Smallville">
+        <network>The CW</network>
+        <title>Pandora</title>
+        <ep>09x09</ep>
+        <link>http://www.tvrage.com/Smallville/episodes/1064846320</link>
+      </show>
+      <show name="The Suite Life on Deck">
+        <network>Disney Channel</network>
+        <title>The Beauty and the Fleeced</title>
+        <ep>02x12</ep>
+        <link>http://www.tvrage.com/shows/id-18575/episodes/1064858702</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Wizards of Waverly Place">
+        <network>Disney Channel</network>
+        <title>Doll House</title>
+        <ep>03x06</ep>
+        <link>http://www.tvrage.com/Wizards_of_Waverly_Place/episodes/1064859162</link>
+      </show>
+      <show name="Batman: The Brave and The Bold">
+        <network>Cartoon Network</network>
+        <title>Death Race to Oblivioin!</title>
+        <ep>02x01</ep>
+        <link>http://www.tvrage.com/shows/id-20349/episodes/1064873018</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Medium">
+        <network>CBS</network>
+        <title>The Future's So Bright</title>
+        <ep>06x09</ep>
+        <link>http://www.tvrage.com/Medium/episodes/1064868879</link>
+      </show>
+      <show name="Monk">
+        <network>USA</network>
+        <title>Mr. Monk and the Badge</title>
+        <ep>08x14</ep>
+        <link>http://www.tvrage.com/Monk/episodes/1064841343</link>
+      </show>
+      <show name="Star Wars: The Clone Wars (2008)">
+        <network>Cartoon Network</network>
+        <title>Legacy of Terror</title>
+        <ep>02x07</ep>
+        <link>http://www.tvrage.com/shows/id-19187/episodes/1064870912</link>
+      </show>
+      <show name="Ancients Behaving Badly">
+        <network>History Channel</network>
+        <title>Julius Caesar</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-24333/episodes/1064871679</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Ben 10: Alien Force">
+        <network>Cartoon Network</network>
+        <title>Ghost Town</title>
+        <ep>03x10</ep>
+        <link>http://www.tvrage.com/shows/id-18699/episodes/1064871007</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Crash">
+        <network>Starz</network>
+        <title>Endangered Species</title>
+        <ep>02x09</ep>
+        <link>http://www.tvrage.com/Crash/episodes/1064857431</link>
+      </show>
+      <show name="Numb3rs">
+        <network>CBS</network>
+        <title>Con Job</title>
+        <ep>06x09</ep>
+        <link>http://www.tvrage.com/Numb3rs/episodes/1064854522</link>
+      </show>
+      <show name="White Collar">
+        <network>USA</network>
+        <title>The Portrait</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/White_Collar/episodes/1064869113</link>
+      </show>
+      <show name="The Jay Leno Show">
+        <network>NBC</network>
+        <title>Jay Mohr</title>
+        <ep>01x50</ep>
+        <link>http://www.tvrage.com/The_Jay_Leno_Show/episodes/1064872795</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Viggo Mortensen, Lyle Lovett</title>
+        <ep>16x250</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064871215</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Eva Mendes, Jon Bon Jovi, Bon Jovi</title>
+        <ep>01x108</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064871217</link>
+      </show>
+    </time>
+    <time attr="12:00 am">
+      <show name="Life on Top">
+        <network>CineMax</network>
+        <title>First Date</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-23946/episodes/1064857014</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Robert Pattinson, Kristen Stewart, Taylor Lautner, Death Cab for Cutie</title>
+        <ep>07x163</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064870016</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Neil Patrick Harris, David Gray</title>
+        <ep>05x191</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064872796</link>
+      </show>
+      <show name="Late Night with Jimmy Fallon">
+        <network>NBC</network>
+        <title>Joseph Gordon-Levitt, Elvis Costello</title>
+        <ep>01x154</ep>
+        <link>http://www.tvrage.com/Late_Night_with_Jimmy_Fallon/episodes/1064872503</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Morena Baccarin</title>
+        <ep>08x112</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872127</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-21">
+    <time attr="09:00 am">
+      <show name="VSpot Top 20 Countdown">
+        <network>VH1</network>
+        <title>Season 7, Episode 47</title>
+        <ep>07x47</ep>
+        <link>http://www.tvrage.com/shows/id-6511/episodes/1064837646</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="Teenage Mutant Ninja Turtles (2003)">
+        <network>The CW</network>
+        <title>Turtles Forever</title>
+        <ep/>
+        <link>http://www.tvrage.com/Teenage_Mutant_Ninja_Turtles_2003/episodes/1064825980</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="This Old House">
+        <network>PBS</network>
+        <title>Newton Centre Project 07</title>
+        <ep>31x07</ep>
+        <link>http://www.tvrage.com/shows/id-6338/episodes/1064857354</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Cops">
+        <network>FOX</network>
+        <title>Slacker Crimes Special Edition</title>
+        <ep>22x10</ep>
+        <link>http://www.tvrage.com/Cops/episodes/1064872547</link>
+      </show>
+      <show name="ABC Saturday Night College Football">
+        <network>ABC</network>
+        <title>TBA</title>
+        <ep>04x10</ep>
+        <link>http://www.tvrage.com/shows/id-11226/episodes/1064833896</link>
+      </show>
+      <show name="Legend of the Seeker">
+        <network>Syndicated</network>
+        <title>Broken</title>
+        <ep>02x03</ep>
+        <link>http://www.tvrage.com/Legend_of_the_Seeker/episodes/1064870999</link>
+      </show>
+      <show name="Top 20 Most Shocking">
+        <network>truTV</network>
+        <title>Midnight Madness</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-24227/episodes/1064864700</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="America's Most Wanted">
+        <network>FOX</network>
+        <title>The World's Most Wanted Special Edition</title>
+        <ep>23x08</ep>
+        <link>http://www.tvrage.com/Americas_Most_Wanted/episodes/1064872493</link>
+      </show>
+      <show name="Austin City Limits">
+        <network>PBS</network>
+        <title>Pearl Jam</title>
+        <ep>35x08</ep>
+        <link>http://www.tvrage.com/Austin_City_Limits/episodes/1064864145</link>
+      </show>
+      <show name="Dallas Cowboys Cheerleaders: Making the Team">
+        <network>CMT</network>
+        <title>Episode 407</title>
+        <ep>04x07</ep>
+        <link>http://www.tvrage.com/shows/id-13782/episodes/1064844644</link>
+      </show>
+      <show name="The Academy (US)">
+        <network>Fox Reality</network>
+        <title>Season 3, Episode 5</title>
+        <ep>03x05</ep>
+        <link>http://www.tvrage.com/shows/id-15936/episodes/1064813671</link>
+      </show>
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Season 1, Episode 2</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814026</link>
+      </show>
+    </time>
+    <time attr="11:30 pm">
+      <show name="Saturday Night Live">
+        <network>NBC</network>
+        <title>Joseph Gordon-Levitt/Dave Matthews Band</title>
+        <ep>35x07</ep>
+        <link>http://www.tvrage.com/Saturday_Night_Live/episodes/1064869742</link>
+      </show>
+    </time>
+    <time attr="12:00 am">
+      <show name="Sit Down, Shut Up">
+        <network>FOX</network>
+        <title>High School Musical Musical</title>
+        <ep>01x13</ep>
+        <link>http://www.tvrage.com/Sit_Down_Shut_Up/episodes/1064835406</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-22">
+    <time attr="12:00 pm">
+      <show name="The Venture Bros.">
+        <network>Adult Swim</network>
+        <title>Self-Medication</title>
+        <ep>04x06</ep>
+        <link>http://www.tvrage.com/The_Venture_Bros/episodes/1064869431</link>
+      </show>
+    </time>
+    <time attr="04:00 pm">
+      <show name="PokerStars.net Million Dollar Challenge">
+        <network>FOX</network>
+        <title>Season 1, Episode 3</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-23926/episodes/1064855550</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="The Amazing Race">
+        <network>CBS</network>
+        <title>We're Not Working With Anybody, Ever, Anymore! (Estonia to Czech Republic)</title>
+        <ep>15x09</ep>
+        <link>http://www.tvrage.com/The_Amazing_Race/episodes/1064866377</link>
+      </show>
+      <show name="The Simpsons">
+        <network>FOX</network>
+        <title>Pranks and Greens</title>
+        <ep>21x06</ep>
+        <link>http://www.tvrage.com/The_Simpsons/episodes/1064824041</link>
+      </show>
+      <show name="WWE Pay-Per-View">
+        <network>Pay-Per-View</network>
+        <title>Survivor Series</title>
+        <ep>25x13</ep>
+        <link>http://www.tvrage.com/shows/id-6652/episodes/1064851181</link>
+      </show>
+      <show name="The American Music Awards">
+        <network>ABC</network>
+        <title>The 37th Annual American Music Awards</title>
+        <ep>37x01</ep>
+        <link>http://www.tvrage.com/shows/id-18723/episodes/1064871627</link>
+      </show>
+      <show name="Sonny With A Chance">
+        <network>Disney Channel</network>
+        <title>Sonny: So Far</title>
+        <ep>01x21</ep>
+        <link>http://www.tvrage.com/shows/id-19770/episodes/1064872980</link>
+      </show>
+      <show name="Dallas Divas &amp; Daughters">
+        <network>Style</network>
+        <title>She Said; She Said</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-24062/episodes/1064872498</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>Philadelphia Eagles at Chicago Bears</title>
+        <ep>04x11</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812582</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="The Cleveland Show">
+        <network>FOX</network>
+        <title>A Brown Thanksgiving</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-18740/episodes/777752</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Curb Your Enthusiasm">
+        <network>HBO</network>
+        <title>Seinfeld</title>
+        <ep>07x10</ep>
+        <link>http://www.tvrage.com/Curb_Your_Enthusiasm/episodes/1064869291</link>
+      </show>
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Jerome Is the New Black</title>
+        <ep>08x07</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825227</link>
+      </show>
+      <show name="Dexter">
+        <network>Showtime</network>
+        <title>Hungry Man</title>
+        <ep>04x09</ep>
+        <link>http://www.tvrage.com/Dexter/episodes/1064854575</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="American Dad!">
+        <network>FOX</network>
+        <title>My Morning Straitjacket</title>
+        <ep>05x07</ep>
+        <link>http://www.tvrage.com/American_Dad/episodes/1064826074</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Cold Case">
+        <network>CBS</network>
+        <title>Chinatown</title>
+        <ep>07x08</ep>
+        <link>http://www.tvrage.com/Cold_Case/episodes/1064853183</link>
+      </show>
+      <show name="Californication">
+        <network>Showtime</network>
+        <title>Mr. Bad Example</title>
+        <ep>03x09</ep>
+        <link>http://www.tvrage.com/Californication/episodes/1064867033</link>
+      </show>
+      <show name="Sex Rehab with Dr. Drew">
+        <network>VH1</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-23651/episodes/1064871654</link>
+      </show>
+    </time>
+    <time attr="12:30 am">
+      <show name="Metalocalypse">
+        <network>Adult Swim</network>
+        <title>Dethhealth</title>
+        <ep>03x03</ep>
+        <link>http://www.tvrage.com/Metalocalypse/episodes/1064871382</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-23">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Mark Harmon, David Cook, the winner of "Project Runway"</title>
+        <ep>21x36</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064872812</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Penelope Cruz, the latest castoffs from "So You Think You Can Dance", Kris Allen</title>
+        <ep>07x55</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064873025</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Zac Efron, Claire Danes, Norah Jones</title>
+        <ep>13x56</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064872508</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9280</title>
+        <ep>37x171</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871869</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5698</title>
+        <ep>23x174</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868196</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13652</title>
+        <ep>54x165</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867310</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>Tennessee Titans at Houston Texans</title>
+        <ep>40x12</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812600</link>
+      </show>
+      <show name="House">
+        <network>FOX</network>
+        <title>Ignorance is Bliss</title>
+        <ep>06x08</ep>
+        <link>http://www.tvrage.com/House/episodes/1064863629</link>
+      </show>
+      <show name="How I Met Your Mother">
+        <network>CBS</network>
+        <title>Slapsgiving 2: Revenge of the Slap</title>
+        <ep>05x09</ep>
+        <link>http://www.tvrage.com/How_I_Met_Your_Mother/episodes/1064842868</link>
+      </show>
+      <show name="Heroes">
+        <network>NBC</network>
+        <title>Thanksgiving</title>
+        <ep>04x11</ep>
+        <link>http://www.tvrage.com/Heroes/episodes/1064871914</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Dancing With the Stars (US)">
+        <network>ABC</network>
+        <title>Season 9, Episode 20</title>
+        <ep>09x20</ep>
+        <link>http://www.tvrage.com/Dancing_With_the_Stars_US/episodes/1064844674</link>
+      </show>
+      <show name="Accidentally on Purpose">
+        <network>CBS</network>
+        <title>Working Girl</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-22771/episodes/1064869087</link>
+      </show>
+      <show name="Zeke and Luther">
+        <network>Disney XD</network>
+        <title>Crash Dummies</title>
+        <ep>02x07</ep>
+        <link>http://www.tvrage.com/shows/id-23035/episodes/1064871677</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Two and a Half Men">
+        <network>CBS</network>
+        <title>Captain Terry's Spray-On Hair</title>
+        <ep>07x09</ep>
+        <link>http://www.tvrage.com/Two_and_a_Half_Men/episodes/1064870378</link>
+      </show>
+      <show name="Lie to Me">
+        <network>FOX</network>
+        <title>Secret Santa</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/Lie_to_Me/episodes/1064868883</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="The Big Bang Theory">
+        <network>CBS</network>
+        <title>The Vengeance Formulation</title>
+        <ep>03x09</ep>
+        <link>http://www.tvrage.com/The_Big_Bang_Theory/episodes/1064852482</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Kill Clause</title>
+        <ep>08x09</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064806998</link>
+      </show>
+      <show name="Three Sheets">
+        <network>Fine Living</network>
+        <title>Whistler</title>
+        <ep>04x16</ep>
+        <link>http://www.tvrage.com/shows/id-14813/episodes/1064869706</link>
+      </show>
+      <show name="Diners, Drive-Ins and Dives">
+        <network>Food Network</network>
+        <title>Burgers, Steaks, and Chops</title>
+        <ep>07x14</ep>
+        <link>http://www.tvrage.com/shows/id-16247/episodes/1064872269</link>
+      </show>
+      <show name="Castle (2009)">
+        <network>ABC</network>
+        <title>One Man's Treasure</title>
+        <ep>02x10</ep>
+        <link>http://www.tvrage.com/Castle/episodes/1064842861</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Robin Williams, Ashley Greene</title>
+        <ep>16x251</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064873020</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Taylor Lautner, John Cleese, Timbaland with Nelly Furtado and So Shy</title>
+        <ep>01x109</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064873000</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Andre Agassi, Weezer</title>
+        <ep>07x164</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064871724</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Margaret Cho, Carl Edwards</title>
+        <ep>05x192</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064872797</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Brett Dennen</title>
+        <ep>08x113</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872128</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-24">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Jimmy Kimmel</title>
+        <ep>21x37</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064872813</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Bon Jovi</title>
+        <ep>07x56</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064873026</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Robin Williams, Matthew Rhys</title>
+        <ep>13x57</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064872509</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9281</title>
+        <ep>37x172</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871870</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5699</title>
+        <ep>23x175</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868197</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13653</title>
+        <ep>54x166</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867311</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="NCIS">
+        <network>CBS</network>
+        <title>Child's Play</title>
+        <ep>07x09</ep>
+        <link>http://www.tvrage.com/NCIS/episodes/1064854545</link>
+      </show>
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>What Are Dreams?</title>
+        <ep>37x07</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064863980</link>
+      </show>
+      <show name="V (2009)">
+        <network>ABC</network>
+        <title>It's Only the Beginning</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-22814/episodes/1064870134</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dancing With the Stars (US)">
+        <network>ABC</network>
+        <title>Season 9 Finale: Winner declared</title>
+        <ep>09x21</ep>
+        <link>http://www.tvrage.com/Dancing_With_the_Stars_US/episodes/1064844675</link>
+      </show>
+      <show name="Dirty Jobs">
+        <network>Discovery Channel</network>
+        <title>Safety Third</title>
+        <ep>05x18</ep>
+        <link>http://www.tvrage.com/Dirty_Jobs/episodes/1064871352</link>
+      </show>
+      <show name="NCIS: Los Angeles">
+        <network>CBS</network>
+        <title>Random on Purpose</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/NCIS-Los_Angeles/episodes/1064854552</link>
+      </show>
+      <show name="E2 Design">
+        <network>Sundance</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-22676/episodes/1064819690</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Secret Lives Of Women">
+        <network>WE</network>
+        <title>Husband Beaters</title>
+        <ep>05x15</ep>
+        <link>http://www.tvrage.com/Secret_Lives_Of_Women/episodes/1064842460</link>
+      </show>
+      <show name="Sons of Anarchy">
+        <network>FX</network>
+        <title>The Culling</title>
+        <ep>02x12</ep>
+        <link>http://www.tvrage.com/Sons_of_Anarchy/episodes/1064835395</link>
+      </show>
+      <show name="The Good Wife">
+        <network>CBS</network>
+        <title>Threesome</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-22755/episodes/1064869088</link>
+      </show>
+      <show name="Sherri">
+        <network>Lifetime</network>
+        <title>Thanksgiving</title>
+        <ep>01x12</ep>
+        <link>http://www.tvrage.com/shows/id-23552/episodes/1064867876</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Zac Efron, Carrie Fisher, Rihanna</title>
+        <ep>16x252</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064873021</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Jack McBrayer, Marisa Miller</title>
+        <ep>01x110</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064873001</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Charlize Theron, a special guest appearance by Regis Philbin, the winner of "Dancing with the Stars"</title>
+        <ep>07x165</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064871725</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Maria Bello, Peter Capaldi</title>
+        <ep>05x193</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064872798</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>OK Go</title>
+        <ep>08x114</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872800</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-25">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Thomas Gibson</title>
+        <ep>21x38</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064872814</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Sandra Bullock</title>
+        <ep>07x57</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064873027</link>
+      </show>
+    </time>
+    <time attr="11:00 am">
+      <show name="The View">
+        <network>ABC</network>
+        <title>Natalie Portman, the latest castoff from "Dancing With the Stars"</title>
+        <ep>13x58</ep>
+        <link>http://www.tvrage.com/The_View/episodes/1064872510</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9282</title>
+        <ep>37x173</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871871</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5700</title>
+        <ep>23x176</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868198</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13654</title>
+        <ep>54x167</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867312</link>
+      </show>
+    </time>
+    <time attr="07:00 pm">
+      <show name="Ben 10: Evolutions">
+        <network>Cartoon Network</network>
+        <title>Ben 10: Alien Swarm</title>
+        <ep>01x00</ep>
+        <link>http://www.tvrage.com/shows/id-23487/episodes/1064866893</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Megabuilders">
+        <network>Discovery Channel</network>
+        <title>Venice Code Red</title>
+        <ep>04x07</ep>
+        <link>http://www.tvrage.com/Megabuilders/episodes/1064852231</link>
+      </show>
+      <show name="Most Shocking">
+        <network>truTV</network>
+        <title>TBA</title>
+        <ep>07x10</ep>
+        <link>http://www.tvrage.com/Most_Shocking/episodes/1064840427</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Gary Unmarried">
+        <network>CBS</network>
+        <title>Gary Keeps a Secret</title>
+        <ep>02x09</ep>
+        <link>http://www.tvrage.com/Gary_Unmarried/episodes/1064870915</link>
+      </show>
+      <show name="The Middle">
+        <network>ABC</network>
+        <title>Thanksgiving</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-20678/episodes/1064853983</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Criminal Minds">
+        <network>CBS</network>
+        <title>100</title>
+        <ep>05x09</ep>
+        <link>http://www.tvrage.com/Criminal_Minds/episodes/1064854871</link>
+      </show>
+      <show name="Law &amp; Order: Special Victims Unit">
+        <network>NBC</network>
+        <title>Anchor</title>
+        <ep>11x10</ep>
+        <link>http://www.tvrage.com/Law_And_Order_SVU/episodes/1064854520</link>
+      </show>
+      <show name="MythBusters">
+        <network>Discovery Channel</network>
+        <title>Dumpster Diving</title>
+        <ep>07x19</ep>
+        <link>http://www.tvrage.com/MythBusters/episodes/1064871354</link>
+      </show>
+      <show name="Friday Night Lights">
+        <network>DIRECTV</network>
+        <title>The Son</title>
+        <ep>04x05</ep>
+        <link>http://www.tvrage.com/Friday_Night_Lights/episodes/1064871913</link>
+      </show>
+      <show name="Living With Ed">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>03x06</ep>
+        <link>http://www.tvrage.com/Living_With_Ed/episodes/1064845541</link>
+      </show>
+      <show name="Glee">
+        <network>FOX</network>
+        <title>Hairography</title>
+        <ep>01x11</ep>
+        <link>http://www.tvrage.com/Glee/episodes/1064852789</link>
+      </show>
+      <show name="Modern Family">
+        <network>ABC</network>
+        <title>Fizbo</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-22622/episodes/1064870443</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Cougar Town">
+        <network>ABC</network>
+        <title>Here Comes My Girl</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-22626/episodes/1064870380</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: NY">
+        <network>CBS</network>
+        <title>Manhattanhenge</title>
+        <ep>06x09</ep>
+        <link>http://www.tvrage.com/CSI_NY/episodes/1064852311</link>
+      </show>
+      <show name="The Ultimate Fighter">
+        <network>Spike TV</network>
+        <title>Heavyweights #11</title>
+        <ep>10x11</ep>
+        <link>http://www.tvrage.com/The_Ultimate_Fighter/episodes/1064840483</link>
+      </show>
+      <show name="Ghost Hunters Academy">
+        <network>Syfy</network>
+        <title>Back to Basics</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-20394/episodes/1064855942</link>
+      </show>
+      <show name="Tyler Perry's Meet the Browns">
+        <network>TBS</network>
+        <title>Meet the Couch Potato</title>
+        <ep>03x07</ep>
+        <link>http://www.tvrage.com/shows/id-20623/episodes/1064857017</link>
+      </show>
+      <show name="Man v. Food">
+        <network>Travel Channel</network>
+        <title>Little Rock, AR</title>
+        <ep>02x17</ep>
+        <link>http://www.tvrage.com/shows/id-20717/episodes/1064866469</link>
+      </show>
+      <show name="Eastwick">
+        <network>ABC</network>
+        <title>Paint and Pleasure</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/Eastwick/episodes/1064871632</link>
+      </show>
+      <show name="Man Shops Globe">
+        <network>Sundance</network>
+        <title>Finale</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-23466/episodes/1064844624</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="Late Show with David Letterman">
+        <network>CBS</network>
+        <title>Natalie Portman, Adam Lambert</title>
+        <ep>16x253</ep>
+        <link>http://www.tvrage.com/Late_Show_with_David_Letterman/episodes/1064873022</link>
+      </show>
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Norm MacDonald, Gretchen Bleiler, Dan Cummins</title>
+        <ep>01x111</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064873002</link>
+      </show>
+    </time>
+    <time attr="12:05 am">
+      <show name="Jimmy Kimmel Live">
+        <network>ABC</network>
+        <title>Charles Barkley, Peter Facinelli, Leona Lewis</title>
+        <ep>07x166</ep>
+        <link>http://www.tvrage.com/Jimmy_Kimmel_Live/episodes/1064871726</link>
+      </show>
+    </time>
+    <time attr="12:35 am">
+      <show name="The Late Late Show with Craig Ferguson">
+        <network>CBS</network>
+        <title>Robin Wright Penn, Wolfgang Puck</title>
+        <ep>05x194</ep>
+        <link>http://www.tvrage.com/The_Late_Late_Show_with_Craig_Ferguson/episodes/1064872799</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>David Gray</title>
+        <ep>08x115</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872801</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-26">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9283</title>
+        <ep>37x174</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871872</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5701</title>
+        <ep>23x177</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868199</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13655</title>
+        <ep>54x168</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867313</link>
+      </show>
+    </time>
+    <time attr="11:35 pm">
+      <show name="The Tonight Show with Conan O'Brien">
+        <network>NBC</network>
+        <title>Pee Wee Herman</title>
+        <ep>01x112</ep>
+        <link>http://www.tvrage.com/The_Tonight_Show_with_Conan_OBrien/episodes/1064873003</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Weezer</title>
+        <ep>08x116</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872802</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-27">
+    <time attr="09:00 am">
+      <show name="Live with Regis and Kelly">
+        <network>Syndicated</network>
+        <title>Neil Patrick Harris, the cast of "The Beatles Love" by Cirque Du Soleil, Uncle Kracker</title>
+        <ep>21x39</ep>
+        <link>http://www.tvrage.com/shows/id-4263/episodes/1064872815</link>
+      </show>
+    </time>
+    <time attr="10:00 am">
+      <show name="The Ellen DeGeneres Show">
+        <network>Syndicated</network>
+        <title>Jennifer Love Hewitt, Kelly Osbourne &amp; Louis van Amstel, teen violinist Justus Rivera</title>
+        <ep>07x58</ep>
+        <link>http://www.tvrage.com/The_Ellen_DeGeneres_Show/episodes/1064873028</link>
+      </show>
+    </time>
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9284</title>
+        <ep>37x175</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871873</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="The Bold and the Beautiful">
+        <network>CBS</network>
+        <title>Ep. #5702</title>
+        <ep>23x178</ep>
+        <link>http://www.tvrage.com/The_Bold_and_the_Beautiful/episodes/1064868200</link>
+      </show>
+    </time>
+    <time attr="02:00 pm">
+      <show name="As The World Turns">
+        <network>CBS</network>
+        <title>Ep. #13656</title>
+        <ep>54x169</ep>
+        <link>http://www.tvrage.com/As_The_World_Turns/episodes/1064867314</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Monk">
+        <network>USA</network>
+        <title>Mr. Monk and the End (Pt. 1)</title>
+        <ep>08x15</ep>
+        <link>http://www.tvrage.com/Monk/episodes/1064841345</link>
+      </show>
+      <show name="Ugly Betty">
+        <network>ABC</network>
+        <title>Level (7) With Me</title>
+        <ep>04x07</ep>
+        <link>http://www.tvrage.com/Ugly_Betty/episodes/1064871881</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Crash">
+        <network>Starz</network>
+        <title>TBA</title>
+        <ep>02x10</ep>
+        <link>http://www.tvrage.com/Crash/episodes/1064857432</link>
+      </show>
+      <show name="White Collar">
+        <network>USA</network>
+        <title>All In</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/White_Collar/episodes/1064869114</link>
+      </show>
+    </time>
+    <time attr="11:45 pm">
+      <show name="Life on Top">
+        <network>CineMax</network>
+        <title>Blame it on Brazil</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-23946/episodes/1064857015</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Juliette Lewis, Joe Firstman</title>
+        <ep>08x117</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064872803</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-28">
+    <time attr="09:00 am">
+      <show name="VSpot Top 20 Countdown">
+        <network>VH1</network>
+        <title>Season 7, Episode 48</title>
+        <ep>07x48</ep>
+        <link>http://www.tvrage.com/shows/id-6511/episodes/1064837648</link>
+      </show>
+    </time>
+    <time attr="01:30 pm">
+      <show name="This Old House">
+        <network>PBS</network>
+        <title>Newton Centre Project 08</title>
+        <ep>31x08</ep>
+        <link>http://www.tvrage.com/shows/id-6338/episodes/1064857355</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="ABC Saturday Night College Football">
+        <network>ABC</network>
+        <title>TBA</title>
+        <ep>04x11</ep>
+        <link>http://www.tvrage.com/shows/id-11226/episodes/1064833897</link>
+      </show>
+      <show name="iCarly">
+        <network>Nickelodeon</network>
+        <title>iMove Out</title>
+        <ep>03x07</ep>
+        <link>http://www.tvrage.com/shows/id-15498/episodes/1064872721</link>
+      </show>
+      <show name="Legend of the Seeker">
+        <network>Syndicated</network>
+        <title>Touched</title>
+        <ep>02x04</ep>
+        <link>http://www.tvrage.com/Legend_of_the_Seeker/episodes/1064871000</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dallas Cowboys Cheerleaders: Making the Team">
+        <network>CMT</network>
+        <title>Finale: Episode 408</title>
+        <ep>04x08</ep>
+        <link>http://www.tvrage.com/shows/id-13782/episodes/1064844645</link>
+      </show>
+      <show name="The Academy (US)">
+        <network>Fox Reality</network>
+        <title>Season 3, Episode 6</title>
+        <ep>03x06</ep>
+        <link>http://www.tvrage.com/shows/id-15936/episodes/1064813672</link>
+      </show>
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Season 1, Episode 3</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814027</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="Brink">
+        <network>Science Channel</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-23059/episodes/1064827123</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-29">
+    <time attr="07:00 pm">
+      <show name="America's Funniest Home Videos">
+        <network>ABC</network>
+        <title>Episode 2008</title>
+        <ep>20x08</ep>
+        <link>http://www.tvrage.com/Americas_Funniest_Home_Videos/episodes/1064869086</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="The Amazing Race">
+        <network>CBS</network>
+        <title>Season 15, Episode 10 (Czech Republic)</title>
+        <ep>15x10</ep>
+        <link>http://www.tvrage.com/The_Amazing_Race/episodes/1064866378</link>
+      </show>
+      <show name="The Simpsons">
+        <network>FOX</network>
+        <title>Rednecks and Broomsticks</title>
+        <ep>21x07</ep>
+        <link>http://www.tvrage.com/The_Simpsons/episodes/1064841566</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>Pittsburgh Steelers at Baltimore Ravens</title>
+        <ep>04x12</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812583</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="The Cleveland Show">
+        <network>FOX</network>
+        <title>From Bed to Worse</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-18740/episodes/777748</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Desperate Housewives">
+        <network>ABC</network>
+        <title>Would I Think of Suicide?</title>
+        <ep>06x09</ep>
+        <link>http://www.tvrage.com/Desperate_Housewives/episodes/1064871882</link>
+      </show>
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Dog Gone</title>
+        <ep>08x08</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825226</link>
+      </show>
+      <show name="Dexter">
+        <network>Showtime</network>
+        <title>Lost Boys</title>
+        <ep>04x10</ep>
+        <link>http://www.tvrage.com/Dexter/episodes/1064854576</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="American Dad!">
+        <network>FOX</network>
+        <title>G-String Circus</title>
+        <ep>05x08</ep>
+        <link>http://www.tvrage.com/American_Dad/episodes/1064825245</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Brothers &amp; Sisters">
+        <network>ABC</network>
+        <title>Pregnant Pause</title>
+        <ep>04x09</ep>
+        <link>http://www.tvrage.com/Brothers_And_Sisters/episodes/1064871883</link>
+      </show>
+      <show name="Californication">
+        <network>Showtime</network>
+        <title>Dogtown</title>
+        <ep>03x10</ep>
+        <link>http://www.tvrage.com/Californication/episodes/1064867034</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-11-30">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9285</title>
+        <ep>37x176</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871874</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>New England Patriots at New Orleans Saints</title>
+        <ep>40x13</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812601</link>
+      </show>
+      <show name="One Tree Hill">
+        <network>The CW</network>
+        <title>You Know I Love You, Don’t You</title>
+        <ep>07x11</ep>
+        <link>http://www.tvrage.com/One_Tree_Hill/episodes/1064871367</link>
+      </show>
+      <show name="Emeril Green">
+        <network>Planet Green</network>
+        <title>California Special</title>
+        <ep>02x28</ep>
+        <link>http://www.tvrage.com/shows/id-23150/episodes/1064843849</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="Zeke and Luther">
+        <network>Disney XD</network>
+        <title>Adventure Boy</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/shows/id-23035/episodes/1064871678</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Gossip Girl">
+        <network>The CW</network>
+        <title>The Treasure of Serena Madre</title>
+        <ep>03x11</ep>
+        <link>http://www.tvrage.com/Gossip_Girl/episodes/1064871916</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Three Sheets">
+        <network>Fine Living</network>
+        <title>Panama</title>
+        <ep>04x17</ep>
+        <link>http://www.tvrage.com/shows/id-14813/episodes/1064869707</link>
+      </show>
+      <show name="Castle (2009)">
+        <network>ABC</network>
+        <title>The Fifth Bullet</title>
+        <ep>02x11</ep>
+        <link>http://www.tvrage.com/Castle/episodes/1064842862</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-1">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9286</title>
+        <ep>37x177</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871875</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Scrubs">
+        <network>ABC</network>
+        <title>Our First Day of School</title>
+        <ep>09x01</ep>
+        <link>http://www.tvrage.com/Scrubs/episodes/1064868492</link>
+      </show>
+      <show name="E2 Design">
+        <network>Sundance</network>
+        <title>Season 1, Episode 2</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-22676/episodes/1064819692</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Scrubs">
+        <network>ABC</network>
+        <title>Our Drunk Friend</title>
+        <ep>09x02</ep>
+        <link>http://www.tvrage.com/Scrubs/episodes/1064869110</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Secret Lives Of Women">
+        <network>WE</network>
+        <title>Born to Breed</title>
+        <ep>05x16</ep>
+        <link>http://www.tvrage.com/Secret_Lives_Of_Women/episodes/1064842461</link>
+      </show>
+      <show name="The Victoria's Secret Fashion Show">
+        <network>CBS</network>
+        <title>The Victoria's Secret Fashion Show (2009)</title>
+        <ep>08x01</ep>
+        <link>http://www.tvrage.com/shows/id-8843/episodes/1064852215</link>
+      </show>
+      <show name="Sons of Anarchy">
+        <network>FX</network>
+        <title>Na Trioblóidí</title>
+        <ep>02x13</ep>
+        <link>http://www.tvrage.com/Sons_of_Anarchy/episodes/1064835396</link>
+      </show>
+      <show name="Sherri">
+        <network>Lifetime</network>
+        <title>Finale</title>
+        <ep>01x13</ep>
+        <link>http://www.tvrage.com/shows/id-23552/episodes/1064867877</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-2">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9287</title>
+        <ep>37x178</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871876</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Friday Night Lights">
+        <network>DIRECTV</network>
+        <title>Stay</title>
+        <ep>04x06</ep>
+        <link>http://www.tvrage.com/Friday_Night_Lights/episodes/1064871915</link>
+      </show>
+      <show name="Living With Ed">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>03x07</ep>
+        <link>http://www.tvrage.com/Living_With_Ed/episodes/1064845542</link>
+      </show>
+      <show name="Glee">
+        <network>FOX</network>
+        <title>Once Upon a Mattress</title>
+        <ep>01x12</ep>
+        <link>http://www.tvrage.com/Glee/episodes/1064852790</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Cougar Town">
+        <network>ABC</network>
+        <title>Mystery Man</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/shows/id-22626/episodes/1064870381</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: NY">
+        <network>CBS</network>
+        <title>Don, I Think I Killed Stella</title>
+        <ep>06x10</ep>
+        <link>http://www.tvrage.com/CSI_NY/episodes/1064868466</link>
+      </show>
+      <show name="The Ultimate Fighter">
+        <network>Spike TV</network>
+        <title>Heavyweights #12</title>
+        <ep>10x12</ep>
+        <link>http://www.tvrage.com/The_Ultimate_Fighter/episodes/1064840484</link>
+      </show>
+      <show name="Tyler Perry's Meet the Browns">
+        <network>TBS</network>
+        <title>Meet Career Day</title>
+        <ep>03x08</ep>
+        <link>http://www.tvrage.com/shows/id-20623/episodes/1064871703</link>
+      </show>
+      <show name="Man v. Food">
+        <network>Travel Channel</network>
+        <title>Tucson, AZ</title>
+        <ep>02x18</ep>
+        <link>http://www.tvrage.com/shows/id-20717/episodes/1064866470</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="Tyler Perry's Meet the Browns">
+        <network>TBS</network>
+        <title>Meet Mr. Wrong</title>
+        <ep>03x09</ep>
+        <link>http://www.tvrage.com/shows/id-20623/episodes/1064871704</link>
+      </show>
+    </time>
+    <time attr="11:00 pm">
+      <show name="Launch My Line">
+        <network>Bravo</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-23439/episodes/1064838848</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-3">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9288</title>
+        <ep>37x179</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871877</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Bones">
+        <network>FOX</network>
+        <title>The Gamer in the Grease</title>
+        <ep>05x09</ep>
+        <link>http://www.tvrage.com/Bones/episodes/1064856556</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Ultimate Power Builders">
+        <network>Planet Green</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-23544/episodes/1064840415</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-4">
+    <time attr="12:30 pm">
+      <show name="The Young and the Restless">
+        <network>CBS</network>
+        <title>Ep. #9289</title>
+        <ep>37x180</ep>
+        <link>http://www.tvrage.com/shows/id-6318/episodes/1064871878</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>The Public Eye (1)</title>
+        <ep>02x05</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064848468</link>
+      </show>
+      <show name="The Suite Life on Deck">
+        <network>Disney Channel</network>
+        <title>The Swede Life</title>
+        <ep>02x13</ep>
+        <link>http://www.tvrage.com/shows/id-18575/episodes/1064869089</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Monk">
+        <network>USA</network>
+        <title>Mr. Monk and the End (Pt. 2)</title>
+        <ep>08x16</ep>
+        <link>http://www.tvrage.com/Monk/episodes/1064841346</link>
+      </show>
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>The Left Hand (2)</title>
+        <ep>02x06</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064852885</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Unwrapped">
+        <network>Food Network</network>
+        <title>Holiday Favorites</title>
+        <ep>S20-Special</ep>
+        <link>http://www.tvrage.com/shows/id-701/episodes/1064871643</link>
+      </show>
+      <show name="White Collar">
+        <network>USA</network>
+        <title>Season 1, Episode 7</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/White_Collar/episodes/1064872483</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-5">
+    <time attr="09:00 am">
+      <show name="VSpot Top 20 Countdown">
+        <network>VH1</network>
+        <title>Season 7, Episode 49</title>
+        <ep>07x49</ep>
+        <link>http://www.tvrage.com/shows/id-6511/episodes/1064837649</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="ABC Saturday Night College Football">
+        <network>ABC</network>
+        <title>2009 Big 12 Championship Game</title>
+        <ep>04x12</ep>
+        <link>http://www.tvrage.com/shows/id-11226/episodes/1064833898</link>
+      </show>
+      <show name="iCarly">
+        <network>Nickelodeon</network>
+        <title>iQuit iCarly</title>
+        <ep/>
+        <link>http://www.tvrage.com/shows/id-15498/episodes/1064872722</link>
+      </show>
+      <show name="Legend of the Seeker">
+        <network>Syndicated</network>
+        <title>Wizard</title>
+        <ep>02x05</ep>
+        <link>http://www.tvrage.com/Legend_of_the_Seeker/episodes/1064871001</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="The Ultimate Fighter">
+        <network>Spike TV</network>
+        <title>Heavyweights #13</title>
+        <ep>10x13</ep>
+        <link>http://www.tvrage.com/The_Ultimate_Fighter/episodes/1064840485</link>
+      </show>
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814028</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-6">
+    <time attr="07:00 pm">
+      <show name="America's Funniest Home Videos">
+        <network>ABC</network>
+        <title>Episode 2009</title>
+        <ep>20x09</ep>
+        <link>http://www.tvrage.com/Americas_Funniest_Home_Videos/episodes/1064872484</link>
+      </show>
+    </time>
+    <time attr="07:30 pm">
+      <show name="Hannah Montana">
+        <network>Disney Channel</network>
+        <title>Come Fail Away</title>
+        <ep>03x26</ep>
+        <link>http://www.tvrage.com/Hannah_Montana/episodes/1064807912</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="The Amazing Race">
+        <network>CBS</network>
+        <title>Winners declared - (Czech Republic to Las Vegas)</title>
+        <ep>15x11</ep>
+        <link>http://www.tvrage.com/The_Amazing_Race/episodes/1064866379</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>New England Patriots at Miami Dolphins</title>
+        <ep>04x13</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812584</link>
+      </show>
+    </time>
+    <time attr="08:30 pm">
+      <show name="JONAS">
+        <network>Disney Channel</network>
+        <title>Cold Shoulder</title>
+        <ep>01x19</ep>
+        <link>http://www.tvrage.com/shows/id-22484/episodes/1064845466</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dexter">
+        <network>Showtime</network>
+        <title>TBA</title>
+        <ep>04x11</ep>
+        <link>http://www.tvrage.com/Dexter/episodes/1064854577</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Cold Case">
+        <network>CBS</network>
+        <title>Forensics</title>
+        <ep>07x09</ep>
+        <link>http://www.tvrage.com/Cold_Case/episodes/1064853184</link>
+      </show>
+      <show name="Brothers &amp; Sisters">
+        <network>ABC</network>
+        <title>Nearlyweds</title>
+        <ep>04x10</ep>
+        <link>http://www.tvrage.com/Brothers_And_Sisters/episodes/1064872485</link>
+      </show>
+    </time>
+    <time attr="12:30 am">
+      <show name="Metalocalypse">
+        <network>Adult Swim</network>
+        <title>Dethmas</title>
+        <ep>03x04</ep>
+        <link>http://www.tvrage.com/Metalocalypse/episodes/1064871383</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-7">
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>Baltimore Ravens at Green Bay Packers</title>
+        <ep>40x14</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812602</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="The Closer">
+        <network>TNT</network>
+        <title>The Life</title>
+        <ep>05x13</ep>
+        <link>http://www.tvrage.com/The_Closer_2005/episodes/1064841120</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="The Big Bang Theory">
+        <network>CBS</network>
+        <title>TBA</title>
+        <ep>03x10</ep>
+        <link>http://www.tvrage.com/The_Big_Bang_Theory/episodes/1064870908</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Count Me Out</title>
+        <ep>08x10</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064806999</link>
+      </show>
+      <show name="Three Sheets">
+        <network>Fine Living</network>
+        <title>Amsterdam</title>
+        <ep>04x18</ep>
+        <link>http://www.tvrage.com/shows/id-14813/episodes/1064869708</link>
+      </show>
+      <show name="Men of a Certain Age">
+        <network>TNT</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-19206/episodes/1064847324</link>
+      </show>
+    </time>
+    <time attr="02:05 am">
+      <show name="Poker After Dark">
+        <network>NBC</network>
+        <title>Railbird Heaven Cash Game #1 - Night 1 of 5</title>
+        <ep>06x25</ep>
+        <link>http://www.tvrage.com/Poker_After_Dark/episodes/1064871129</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-8">
+    <time attr="08:00 pm">
+      <show name="NCIS">
+        <network>CBS</network>
+        <title>Faith</title>
+        <ep>07x10</ep>
+        <link>http://www.tvrage.com/NCIS/episodes/1064868143</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Better Off Ted">
+        <network>ABC</network>
+        <title>Season 2, Episode 1</title>
+        <ep>02x01</ep>
+        <link>http://www.tvrage.com/Better_Off_Ted/episodes/1064872987</link>
+      </show>
+      <show name="NCIS: Los Angeles">
+        <network>CBS</network>
+        <title>TBA</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/NCIS-Los_Angeles/episodes/1064854553</link>
+      </show>
+      <show name="E2 Design">
+        <network>Sundance</network>
+        <title>Finale</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-22676/episodes/1064819693</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="Outer Space Astronauts">
+        <network>Syfy</network>
+        <title>Season 1, Episode 1</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-19648/episodes/1064872953</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>David Duchovny</title>
+        <ep>08x118</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064873023</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-9">
+    <time attr="12:30 pm">
+      <show name="Power Rangers">
+        <network>ABC</network>
+        <title>If Venjix Won</title>
+        <ep>17x29</ep>
+        <link>http://www.tvrage.com/shows/id-4877/episodes/1064852338</link>
+      </show>
+    </time>
+    <time attr="01:00 pm">
+      <show name="Power Rangers">
+        <network>ABC</network>
+        <title>End Game</title>
+        <ep>17x30</ep>
+        <link>http://www.tvrage.com/shows/id-4877/episodes/1064852339</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Living With Ed">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>03x08</ep>
+        <link>http://www.tvrage.com/Living_With_Ed/episodes/1064845543</link>
+      </show>
+      <show name="Glee">
+        <network>FOX</network>
+        <title>Sectionals</title>
+        <ep>01x13</ep>
+        <link>http://www.tvrage.com/Glee/episodes/1064852791</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Dinner: Impossible">
+        <network>Food Network</network>
+        <title>Robert And Guy's Holiday Havoc</title>
+        <ep>07x10</ep>
+        <link>http://www.tvrage.com/shows/id-16914/episodes/1064872735</link>
+      </show>
+      <show name="Man v. Food">
+        <network>Travel Channel</network>
+        <title>New Jersey</title>
+        <ep>02x19</ep>
+        <link>http://www.tvrage.com/shows/id-20717/episodes/1064866471</link>
+      </show>
+    </time>
+    <time attr="01:35 am">
+      <show name="Last Call with Carson Daly">
+        <network>NBC</network>
+        <title>Olivia Munn</title>
+        <ep>08x119</ep>
+        <link>http://www.tvrage.com/Last_Call_with_Carson_Daly/episodes/1064873024</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-10">
+    <time attr="08:00 pm">
+      <show name="Bones">
+        <network>FOX</network>
+        <title>The Goop on the Girl</title>
+        <ep>05x10</ep>
+        <link>http://www.tvrage.com/Bones/episodes/1064869357</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="CSI: Crime Scene Investigation">
+        <network>CBS</network>
+        <title>To Serve Harry</title>
+        <ep>10x09</ep>
+        <link>http://www.tvrage.com/CSI/episodes/1064817325</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Crime Scene Investigation">
+        <network>CBS</network>
+        <title>Strain Theory</title>
+        <ep>10x10</ep>
+        <link>http://www.tvrage.com/CSI/episodes/1064817326</link>
+      </show>
+      <show name="Ultimate Power Builders">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-23544/episodes/1064845545</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-11">
+    <time attr="08:00 pm">
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>Meet Jane Doe</title>
+        <ep>02x07</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064854634</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>A Love Supreme</title>
+        <ep>02x08</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064854635</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-12">
+    <time attr="09:00 am">
+      <show name="VSpot Top 20 Countdown">
+        <network>VH1</network>
+        <title>Season 7, Episode 50</title>
+        <ep>07x50</ep>
+        <link>http://www.tvrage.com/shows/id-6511/episodes/1064837651</link>
+      </show>
+    </time>
+    <time attr="03:00 pm">
+      <show name="Face The Ace">
+        <network>NBC</network>
+        <title>Episode 6</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-22648/episodes/1064810291</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Season 1, Episode 5</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814029</link>
+      </show>
+      <show name="30 For 30">
+        <network>ESPN</network>
+        <title>The U</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-23722/episodes/1064856704</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-13">
+    <time attr="04:00 pm">
+      <show name="PokerStars.net Million Dollar Challenge">
+        <network>FOX</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-23926/episodes/1064855551</link>
+      </show>
+    </time>
+    <time attr="08:00 pm">
+      <show name="WWE Pay-Per-View">
+        <network>Pay-Per-View</network>
+        <title>TLC: Tables, Ladders &amp; Chairs</title>
+        <ep>25x14</ep>
+        <link>http://www.tvrage.com/shows/id-6652/episodes/1064851182</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>Philadelphia Eagles at New York Giants</title>
+        <ep>04x14</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812585</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Business Guy</title>
+        <ep>08x10</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825230</link>
+      </show>
+      <show name="Dexter">
+        <network>Showtime</network>
+        <title>TBA</title>
+        <ep>04x12</ep>
+        <link>http://www.tvrage.com/Dexter/episodes/1064854578</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-14">
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>Arizona Cardinals at San Francisco 49ers</title>
+        <ep>40x15</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812603</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="The Closer">
+        <network>TNT</network>
+        <title>Make Over</title>
+        <ep>05x14</ep>
+        <link>http://www.tvrage.com/The_Closer_2005/episodes/1064869743</link>
+      </show>
+    </time>
+    <time attr="09:30 pm">
+      <show name="The Big Bang Theory">
+        <network>CBS</network>
+        <title>TBA</title>
+        <ep>03x11</ep>
+        <link>http://www.tvrage.com/The_Big_Bang_Theory/episodes/1064870909</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Witness For the Defense</title>
+        <ep>08x11</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807000</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-15">
+    <time attr="08:00 pm">
+      <show name="NCIS">
+        <network>CBS</network>
+        <title>TBA</title>
+        <ep>07x11</ep>
+        <link>http://www.tvrage.com/NCIS/episodes/1064868144</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="NCIS: Los Angeles">
+        <network>CBS</network>
+        <title>In God We Trust</title>
+        <ep>01x11</ep>
+        <link>http://www.tvrage.com/NCIS-Los_Angeles/episodes/1064854554</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Men of a Certain Age">
+        <network>TNT</network>
+        <title>Let It Go</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-19206/episodes/1064847325</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-16">
+    <time attr="10:00 pm">
+      <show name="CSI: NY">
+        <network>CBS</network>
+        <title>Second Chances</title>
+        <ep>06x11</ep>
+        <link>http://www.tvrage.com/CSI_NY/episodes/1064868878</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-17">
+    <time attr="08:00 pm">
+      <show name="Bones">
+        <network>FOX</network>
+        <title>The X in the File</title>
+        <ep>05x11</ep>
+        <link>http://www.tvrage.com/Bones/episodes/1064869358</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Ultimate Power Builders">
+        <network>Planet Green</network>
+        <title>TBA</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-23544/episodes/1064845546</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-18">
+    <time attr="08:00 pm">
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>Stop-Lost</title>
+        <ep>02x09</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064866099</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Dollhouse">
+        <network>FOX</network>
+        <title>TBA</title>
+        <ep>02x10</ep>
+        <link>http://www.tvrage.com/Dollhouse/episodes/1064866100</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Speeders Fight Back">
+        <network>truTV</network>
+        <title>Episode 9</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-20367/episodes/1064856677</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-19">
+    <time attr="09:00 pm">
+      <show name="Supermanny">
+        <network>ABC</network>
+        <title>Season 1, Episode 6</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-22770/episodes/1064814030</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-20">
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>Minnesota Vikings at Carolina Panthers</title>
+        <ep>04x15</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812586</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-21">
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>New York Giants at Washington Redskins</title>
+        <ep>40x16</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812604</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="The Closer">
+        <network>TNT</network>
+        <title>Dead Man's Hand</title>
+        <ep>05x15</ep>
+        <link>http://www.tvrage.com/The_Closer_2005/episodes/1064869744</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-22">
+    <time attr="10:00 pm">
+      <show name="Men of a Certain Age">
+        <network>TNT</network>
+        <title>Powerless</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-19206/episodes/1064847326</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-24">
+    <time attr="10:00 pm">
+      <show name="Ultimate Power Builders">
+        <network>Planet Green</network>
+        <title>Finale</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-23544/episodes/1064845547</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-26">
+    <time attr="12:30 pm">
+      <show name="Power Rangers">
+        <network>ABC</network>
+        <title>Danger and Destiny (1)</title>
+        <ep>17x31</ep>
+        <link>http://www.tvrage.com/shows/id-4877/episodes/1064852340</link>
+      </show>
+    </time>
+    <time attr="01:00 pm">
+      <show name="Power Rangers">
+        <network>ABC</network>
+        <title>Danger and Destiny (2)</title>
+        <ep>17x32</ep>
+        <link>http://www.tvrage.com/shows/id-4877/episodes/1064852341</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-27">
+    <time attr="04:00 pm">
+      <show name="PokerStars.net Million Dollar Challenge">
+        <network>FOX</network>
+        <title>Season 1, Episode 5</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-23926/episodes/1064855552</link>
+      </show>
+    </time>
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>Dallas Cowboys at Washington Redskins</title>
+        <ep>04x16</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812587</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-28">
+    <time attr="08:00 pm">
+      <show name="Monday Night Football">
+        <network>ESPN</network>
+        <title>Minnesota Vikings at Chicago Bears</title>
+        <ep>40x17</ep>
+        <link>http://www.tvrage.com/shows/id-1563/episodes/1064812605</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2009-12-29">
+    <time attr="08:00 pm">
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>What Darwin Never Knew</title>
+        <ep>37x08</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064863981</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Men of a Certain Age">
+        <network>TNT</network>
+        <title>Mind's Eye</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-19206/episodes/1064847327</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-2">
+    <time attr="02:30 pm">
+      <show name="Face The Ace">
+        <network>NBC</network>
+        <title>Episode 7</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-22648/episodes/1064810292</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-3">
+    <time attr="08:15 pm">
+      <show name="Sunday Night Football">
+        <network>NBC</network>
+        <title>TBA</title>
+        <ep>04x17</ep>
+        <link>http://www.tvrage.com/shows/id-7023/episodes/1064812588</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-4">
+    <time attr="09:00 pm">
+      <show name="Gossip Girl">
+        <network>The CW</network>
+        <title>The Debarted</title>
+        <ep>03x12</ep>
+        <link>http://www.tvrage.com/Gossip_Girl/episodes/1064871917</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-5">
+    <time attr="08:00 pm">
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>Killer Subs in Pearl Harbor</title>
+        <ep>37x09</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064870454</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-11">
+    <time attr="08:00 pm">
+      <show name="One Tree Hill">
+        <network>The CW</network>
+        <title>Some Roads Lead Nowhere</title>
+        <ep>07x12</ep>
+        <link>http://www.tvrage.com/One_Tree_Hill/episodes/1064871368</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Gossip Girl">
+        <network>The CW</network>
+        <title>Jenny, Full of Grace</title>
+        <ep>03x13</ep>
+        <link>http://www.tvrage.com/Gossip_Girl/episodes/1064871918</link>
+      </show>
+      <show name="Make It or Break It">
+        <network>ABC Family</network>
+        <title>Return!</title>
+        <ep>01x11</ep>
+        <link>http://www.tvrage.com/shows/id-22679/episodes/1064868550</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Phoenix In The Fire</title>
+        <ep>08x12</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807001</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-12">
+    <time attr="08:00 pm">
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>Building Pharaoh's Ship</title>
+        <ep>37x10</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064870455</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-13">
+    <time attr="10:00 pm">
+      <show name="CSI: NY">
+        <network>CBS</network>
+        <title>Criminal Justice</title>
+        <ep>06x12</ep>
+        <link>http://www.tvrage.com/CSI_NY/episodes/1064870910</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-14">
+    <time attr="08:00 pm">
+      <show name="The Simpsons">
+        <network>FOX</network>
+        <title>The Simpsons 20th Anniversary Special in 3-D on Ice</title>
+        <ep>21x08</ep>
+        <link>http://www.tvrage.com/The_Simpsons/episodes/1064824042</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="CSI: Crime Scene Investigation">
+        <network>CBS</network>
+        <title>Sin City Blue</title>
+        <ep>10x11</ep>
+        <link>http://www.tvrage.com/CSI/episodes/1064817327</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-17">
+    <time attr="08:00 pm">
+      <show name="The Golden Globes">
+        <network>NBC</network>
+        <title>The 67th Annual Golden Globe Awards</title>
+        <ep>67x01</ep>
+        <link>http://www.tvrage.com/The_Golden_Globes/episodes/1064833926</link>
+      </show>
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064811128</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 4:00P.M. - 5:00P.M.</title>
+        <ep>08x01</ep>
+        <link>http://www.tvrage.com/24/episodes/1064812687</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 5:00P.M. - 6:00P.M.</title>
+        <ep>08x02</ep>
+        <link>http://www.tvrage.com/24/episodes/1064812932</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-18">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 6:00P.M. - 7:00P.M.</title>
+        <ep>08x03</ep>
+        <link>http://www.tvrage.com/24/episodes/1064812933</link>
+      </show>
+      <show name="Life UneXpected">
+        <network>The CW</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-23114/episodes/1064847332</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 7:00P.M. - 8:00P.M.</title>
+        <ep>08x04</ep>
+        <link>http://www.tvrage.com/24/episodes/1064812934</link>
+      </show>
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Officer Down</title>
+        <ep>08x13</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807003</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-19">
+    <time attr="08:00 pm">
+      <show name="NOVA">
+        <network>PBS</network>
+        <title>Riddles of the Sphinx</title>
+        <ep>37x11</ep>
+        <link>http://www.tvrage.com/NOVA/episodes/1064870456</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-20">
+    <time attr="09:00 pm">
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Embassy Row</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064869413</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Being Erica">
+        <network>SOAPNet</network>
+        <title>Being Dr. Tom</title>
+        <ep>02x01</ep>
+        <link>http://www.tvrage.com/Being_Erica/episodes/1064847784</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-22">
+    <time attr="09:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>Pilot</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/366457</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Spartacus">
+        <network>Starz</network>
+        <title>The Red Serpent</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-21885/episodes/1064837930</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-23">
+    <time attr="08:00 pm">
+      <show name="The Screen Actors Guild Awards">
+        <network>TNT</network>
+        <title>16th Annual Screen Actors Guild Awards</title>
+        <ep>16x01</ep>
+        <link>http://www.tvrage.com/shows/id-14840/episodes/1064833927</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-25">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 8:00P.M. - 9:00P.M.</title>
+        <ep>08x05</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830605</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="Tracey Ullman's State of the Union">
+        <network>Showtime</network>
+        <title>Season 3, Episode 1</title>
+        <ep>03x01</ep>
+        <link>http://www.tvrage.com/State_of_the_Union/episodes/1064871370</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-27">
+    <time attr="09:00 pm">
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Company Town</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064869414</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-28">
+    <time attr="09:00 pm">
+      <show name="CSI: Crime Scene Investigation">
+        <network>CBS</network>
+        <title>Long Ball</title>
+        <ep>10x12</ep>
+        <link>http://www.tvrage.com/CSI/episodes/1064817328</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-29">
+    <time attr="08:00 pm">
+      <show name="Smallville">
+        <network>The CW</network>
+        <title>Society</title>
+        <ep>09x11</ep>
+        <link>http://www.tvrage.com/Smallville/episodes/1064864696</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>Rebirth</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/1064834143</link>
+      </show>
+      <show name="Spartacus">
+        <network>Starz</network>
+        <title>Sacramentum Gladiatorum</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-21885/episodes/1064864177</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-1-31">
+    <time attr="08:00 pm">
+      <show name="The Grammys">
+        <network>CBS</network>
+        <title>The 52nd Annual Grammy Awards</title>
+        <ep>52x01</ep>
+        <link>http://www.tvrage.com/The_Grammys/episodes/1064833928</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-1">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 9:00P.M. - 10:00P.M.</title>
+        <ep>08x06</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830606</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Poison Ivy</title>
+        <ep>08x14</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807004</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-3">
+    <time attr="09:00 pm">
+      <show name="Lost">
+        <network>ABC</network>
+        <title>LA X (1)</title>
+        <ep>06x01</ep>
+        <link>http://www.tvrage.com/Lost/episodes/1064838536</link>
+      </show>
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Rewind</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064869717</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Lost">
+        <network>ABC</network>
+        <title>LA X (2)</title>
+        <ep>06x02</ep>
+        <link>http://www.tvrage.com/Lost/episodes/1064852833</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-4">
+    <time attr="10:30 pm">
+      <show name="The Sarah Silverman Program">
+        <network>Comedy Central</network>
+        <title>TBA</title>
+        <ep>03x01</ep>
+        <link>http://www.tvrage.com/The_Sarah_Silverman_Program/episodes/785717</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-5">
+    <time attr="10:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>The Reins of a Waterfall</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/1064838580</link>
+      </show>
+      <show name="Spartacus">
+        <network>Starz</network>
+        <title>Legends</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-21885/episodes/1064864178</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-7">
+    <time attr="06:30 pm">
+      <show name="Super Bowl">
+        <network>NBC</network>
+        <title>Super Bowl XLIV</title>
+        <ep>44x01</ep>
+        <link>http://www.tvrage.com/shows/id-8128/episodes/386418</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-8">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 10:00P.M. - 11:00P.M.</title>
+        <ep>08x07</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830607</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Day and Night (1)</title>
+        <ep>08x15</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807005</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-10">
+    <time attr="09:00 pm">
+      <show name="Lost">
+        <network>ABC</network>
+        <title>What Kate Does</title>
+        <ep>06x03</ep>
+        <link>http://www.tvrage.com/Lost/episodes/1064852834</link>
+      </show>
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Sanctuary</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064869718</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-12">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Opening Ceremonies</title>
+        <ep>01x01</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777351</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/1064839255</link>
+      </show>
+      <show name="Spartacus">
+        <network>Starz</network>
+        <title>The Pits</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-21885/episodes/1064864179</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-13">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 2</title>
+        <ep>01x02</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777352</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-14">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 3</title>
+        <ep>01x03</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777353</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-15">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 4</title>
+        <ep>01x04</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777354</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 11:00P.M. - 12:00A.M.</title>
+        <ep>08x08</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830608</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Nine Lives (2)</title>
+        <ep>08x16</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807006</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-16">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 5</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777355</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-17">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 6</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777356</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Lost">
+        <network>ABC</network>
+        <title>The Substitute</title>
+        <ep>06x04</ep>
+        <link>http://www.tvrage.com/Lost/episodes/1064854165</link>
+      </show>
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Kidnapped</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064869719</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-18">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 7</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777357</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-19">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 8</title>
+        <ep>01x08</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777358</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>Season 1, Episode 5</title>
+        <ep>01x05</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/1064839256</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-20">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 9</title>
+        <ep>01x09</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777359</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-21">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 10</title>
+        <ep>01x10</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777360</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-22">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 11</title>
+        <ep>01x11</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777361</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 12:00A.M. - 1:00A.M.</title>
+        <ep>08x09</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830609</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 1:00A.M. - 2:00A.M.</title>
+        <ep>08x10</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830610</link>
+      </show>
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Double Closing</title>
+        <ep>08x17</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807007</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-23">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 12</title>
+        <ep>01x12</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777362</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-24">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 13</title>
+        <ep>01x13</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777363</link>
+      </show>
+    </time>
+    <time attr="09:00 pm">
+      <show name="Human Target (2010)">
+        <network>FOX</network>
+        <title>Lockdown</title>
+        <ep>01x07</ep>
+        <link>http://www.tvrage.com/shows/id-22699/episodes/1064872270</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-25">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 14</title>
+        <ep>01x14</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777364</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-26">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 15</title>
+        <ep>01x15</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777365</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="Caprica">
+        <network>Syfy</network>
+        <title>Know Thy Enemy</title>
+        <ep>01x06</ep>
+        <link>http://www.tvrage.com/shows/id-11011/episodes/1064839257</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-27">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Season 1, Episode 16</title>
+        <ep>01x16</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777366</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-2-28">
+    <time attr="06:00 pm">
+      <show name="The 2010 Winter Olympics">
+        <network>NBC</network>
+        <title>Closing Ceremonies</title>
+        <ep>01x17</ep>
+        <link>http://www.tvrage.com/shows/id-21680/episodes/777367</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-1">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 2:00A.M. - 3:00A.M.</title>
+        <ep>08x11</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830611</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-7">
+    <time attr="08:00 pm">
+      <show name="The Academy Awards">
+        <network>ABC</network>
+        <title>The 82nd Annual Academy Awards</title>
+        <ep>82x01</ep>
+        <link>http://www.tvrage.com/The_Academy_Awards/episodes/1064840417</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-8">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 3:00A.M. - 4:00A.M.</title>
+        <ep>08x12</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830612</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-15">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 4:00A.M. - 5:00A.M.</title>
+        <ep>08x13</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830613</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Kill or Be Killed</title>
+        <ep>08x18</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807008</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-22">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 5:00A.M. - 6:00A.M.</title>
+        <ep>08x14</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830614</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Slow Motion</title>
+        <ep>08x19</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807009</link>
+      </show>
+      <show name="Nurse Jackie">
+        <network>Showtime</network>
+        <title>Season 2, Episode 1</title>
+        <ep>02x01</ep>
+        <link>http://www.tvrage.com/Nurse_Jackie/episodes/1064871369</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="United States of Tara">
+        <network>Showtime</network>
+        <title>TBA</title>
+        <ep>02x01</ep>
+        <link>http://www.tvrage.com/shows/id-20601/episodes/1064843153</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-28">
+    <time attr="08:00 pm">
+      <show name="The Simpsons">
+        <network>FOX</network>
+        <title>The Greatest Story Ever D'ohed</title>
+        <ep>21x09</ep>
+        <link>http://www.tvrage.com/The_Simpsons/episodes/1064854482</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-3-29">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 6:00A.M. - 7:00A.M.</title>
+        <ep>08x15</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830615</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="United States of Tara">
+        <network>Showtime</network>
+        <title>Trouble Junction</title>
+        <ep>02x02</ep>
+        <link>http://www.tvrage.com/shows/id-20601/episodes/1064843154</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-4-5">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 7:00A.M. - 8:00A.M.</title>
+        <ep>08x16</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830616</link>
+      </show>
+    </time>
+    <time attr="10:30 pm">
+      <show name="United States of Tara">
+        <network>Showtime</network>
+        <title>The Truth Hurts</title>
+        <ep>02x03</ep>
+        <link>http://www.tvrage.com/shows/id-20601/episodes/1064843155</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-4-11">
+    <time attr="10:00 pm">
+      <show name="The Tudors">
+        <network>Showtime</network>
+        <title>Season 4, Episode 1</title>
+        <ep>04x01</ep>
+        <link>http://www.tvrage.com/The_Tudors/episodes/1064871371</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-4-12">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 8:00A.M. - 9:00A.M.</title>
+        <ep>08x17</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830617</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Quick Strike</title>
+        <ep>08x20</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807010</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-4-19">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 9:00A.M. - 10:00A.M.</title>
+        <ep>08x18</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830618</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-4-26">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 10:00A.M. - 11:00A.M.</title>
+        <ep>08x19</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830619</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Fourth Wall</title>
+        <ep>08x21</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807011</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-5-3">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 11:00A.M. - 12:00P.M.</title>
+        <ep>08x20</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830620</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Ghosts</title>
+        <ep>08x22</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807012</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-5-10">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 12:00P.M. - 1:00P.M.</title>
+        <ep>08x21</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830621</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Pop, Lock and Drop It</title>
+        <ep>08x23</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807013</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-5-16">
+    <time attr="09:00 pm">
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Something, Something, Something, Dark Side</title>
+        <ep>08x20</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825237</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-5-17">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 1:00P.M. - 2:00P.M.</title>
+        <ep>08x22</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830622</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="CSI: Miami">
+        <network>CBS</network>
+        <title>Killer Instincts</title>
+        <ep>08x24</ep>
+        <link>http://www.tvrage.com/CSI_Miami/episodes/1064807014</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-5-24">
+    <time attr="09:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 2:00P.M. - 3:00P.M.</title>
+        <ep>08x23</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830623</link>
+      </show>
+    </time>
+    <time attr="10:00 pm">
+      <show name="24">
+        <network>FOX</network>
+        <title>Day 8: 3:00P.M. - 4:00P.M.</title>
+        <ep>08x24</ep>
+        <link>http://www.tvrage.com/24/episodes/1064830624</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-12-6">
+    <time attr="09:00 pm">
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Big Man on Hippocampus</title>
+        <ep>08x09</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064825228</link>
+      </show>
+    </time>
+  </DAY>
+  <DAY attr="2010-12-19">
+    <time attr="09:00 pm">
+      <show name="Family Guy">
+        <network>FOX</network>
+        <title>Road to the North Pole</title>
+        <ep>09x00</ep>
+        <link>http://www.tvrage.com/Family_Guy/episodes/1064854239</link>
+      </show>
+    </time>
+  </DAY>
+</schedule>

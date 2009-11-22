@@ -1,0 +1,358 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta name="Content-Type" content="text/html; charset=UTF-8" />
+<title>Module: Sofa::Mapping::InstanceMethods</title>
+<link rel="stylesheet" href="../../css/style.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="../../css/common.css" type="text/css" media="screen" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  relpath = '../..';
+  if (relpath != '') relpath += '/';
+</script>
+<script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (I)</a> &raquo; 
+    <a title="Sofa" href="../../Sofa.html">Sofa</a> &raquo; <a title="Mapping" href="../Mapping.html">Mapping</a>
+     &raquo; 
+    <span class="title">InstanceMethods</span>
+  
+</div>
+
+      <div id="search">
+  <a id="class_list_link" href="#">Namespace List</a>
+  <a id="method_list_link" href="#">Method List</a>
+  <a id ="file_list_link" href="#">File List</a>
+</div>
+
+      <div class="clear"></div>
+    </div>
+    
+    <iframe id="search_frame"></iframe>
+    
+    <div id="content"><h1>Module: Sofa::Mapping::InstanceMethods 
+  
+  
+</h1>
+
+<dl class="box">
+  
+  
+    
+  
+    
+  
+  
+    <dt class="r1 last">Defined in:</dt>
+    <dd class="r1 last">lib/sofa/mapping.rb</dd>
+  
+</dl>
+<div class="clear"></div>
+
+
+
+
+  <h2>Method Summary</h2>
+  <ul class="summary">
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#== (instance method)" href="#%3D%3D-instance_method">- (Boolean) <strong>==</strong>(obj) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Compares two objects based on their attributes.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#attributes (instance method)" href="#attributes-instance_method">- (Hash&lt;Symbol, Object&gt;) <strong>attributes</strong> </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Returns hash of all the attributes, with attribute names as keys and attribute values as values.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#update_with_mapping (instance method)" href="#update_with_mapping-instance_method">- (Object) <strong>update_with_mapping</strong>(attributes = {}) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Updates all the attributes from the Hash.</span>
+  
+</li>
+
+    
+  </ul>
+
+
+
+  <div id="method_details">
+    <h2>Method Details</h2>
+    
+      <div class="method_details first">
+  <p class="signature first" id="==-instance_method">
+  
+    - (<tt>Boolean</tt>) <strong>==</strong>(obj) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Compares two objects based on their attributes.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>Object</tt>)</span>
+      
+      
+        <span class='name'>obj</span>
+      
+      
+      
+        &mdash;
+        The object to compare with
+      
+    </li>
+  
+</ul>
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Boolean</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        Whether all attributes are the same
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 48</span>
+
+def ==(obj)
+  if (klass = self.class) == obj.class
+    klass.mappings.inject(true) do |result, to_from|
+      to = to_from.last || to_from.first
+      result &&= (obj.send(to) == self.send(to))
+    end
+  else
+    super
+  end
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="attributes-instance_method">
+  
+    - (<tt>Hash&lt;Symbol, Object&gt;</tt>) <strong>attributes</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Returns hash of all the attributes, with attribute names as keys and attribute values as values.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash&lt;Symbol, Object&gt;</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        Hash of all attributes
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Sofa::Mapping::ClassMethods#maps" href="ClassMethods.html#maps-instance_method">Sofa::Mapping::ClassMethods#maps</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+20
+21
+22
+23
+24
+25
+26
+27</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 20</span>
+
+def attributes
+  klass = self.class
+  klass.mappings.values.inject({}) do |attrs, to|
+    next unless to
+    attrs[to] = send(to)
+    attrs
+  end
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="update_with_mapping-instance_method">
+  
+    - (<tt>Object</tt>) <strong>update_with_mapping</strong>(attributes = {}) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Updates all the attributes from the Hash.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash&lt;Symbol, Object&gt;</tt>)</span>
+      
+      
+        <span class='name'>attributes</span>
+      
+      
+        <em class="default">(defaults to: <tt>{}</tt>)</em>
+      
+      
+        &mdash;
+        A hash with attribute names as keys and attribute values as values
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Sofa::Mapping::ClassMethods#maps" href="ClassMethods.html#maps-instance_method">Sofa::Mapping::ClassMethods#maps</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 33</span>
+
+def update_with_mapping(attributes = {})
+  attributes.each do |key, value|
+    next unless (klass = self.class) and key.respond_to?(:to_sym) and to = klass.mappings[key.to_sym]
+
+    block = klass.mappings_procs[to]
+    value = block.call(value) if block
+
+    instance_variable_set("@#{to}", value)
+  end
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+  </div>
+
+</div>
+    
+    <div id="footer">
+  Generated on Sat Nov 21 20:13:52 2009 by 
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool">yard</a>
+  0.4.0 (ruby-1.8.7).
+</div>
+
+  </body>
+</html>

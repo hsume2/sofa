@@ -1,0 +1,904 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta name="Content-Type" content="text/html; charset=UTF-8" />
+<title>Class: Sofa::TVRage::Show</title>
+<link rel="stylesheet" href="../../css/style.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="../../css/common.css" type="text/css" media="screen" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  relpath = '../..';
+  if (relpath != '') relpath += '/';
+</script>
+<script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (S)</a> &raquo; 
+    <a title="Sofa" href="../../Sofa.html">Sofa</a> &raquo; <a title="TVRage" href="../TVRage.html">TVRage</a>
+     &raquo; 
+    <span class="title">Show</span>
+  
+</div>
+
+      <div id="search">
+  <a id="class_list_link" href="#">Namespace List</a>
+  <a id="method_list_link" href="#">Method List</a>
+  <a id ="file_list_link" href="#">File List</a>
+</div>
+
+      <div class="clear"></div>
+    </div>
+    
+    <iframe id="search_frame"></iframe>
+    
+    <div id="content"><h1>Class: Sofa::TVRage::Show 
+  
+  
+</h1>
+
+<dl class="box">
+  
+    <dt class="r1">Inherits:</dt>
+    <dd class="r1">
+      <span class="inheritName">Object</span>
+      
+      </dd>
+    
+  
+  
+    
+  
+    
+      <dt class="r2">Includes:</dt>
+      <dd class="r2">HTTParty, <a title="Sofa::Mapping" href="../Mapping.html">Sofa::Mapping</a></dd>
+      
+    
+  
+  
+    <dt class="r1 last">Defined in:</dt>
+    <dd class="r1 last">lib/sofa/tvrage/show.rb</dd>
+  
+</dl>
+<div class="clear"></div>
+
+<h2>Overview</h2><div class="docstring">
+  <div class="discussion">
+    <p>This class holds the XML information of a single Show as per the TVRage API. It&#8217;s also the root point for communicating with the API.</p>
+
+  </div>
+</div>
+<div class="tags">
+  
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="TVRage API" href="http://services.tvrage.com/index.php?page=public">TVRage API</a></li>
+    
+  </ul>
+
+</div>
+
+  
+  
+  
+  
+  
+  <h2>Attribute Summary</h2>
+  <ul class="summary">
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#greedy (instance method)" href="#greedy-instance_method">- (Hash) <strong>greedy</strong> </a>
+  
+  </span>
+  
+    
+    
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Stores all the info that was greedy-loaded.</span>
+  
+</li>
+
+    
+  </ul>
+
+
+  <h2>Method Summary</h2>
+  <ul class="summary">
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="by_name (class method)" href="#by_name-class_method">+ (Show) <strong>by_name</strong>(name, options = {}) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Finds the Show by name using TVRage&#8217;s Quickinfo API.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="episode_list (class method)" href="#episode_list-class_method">+ (Hash) <strong>episode_list</strong>(sid) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Gets the episode list for a Show.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="full_info (class method)" href="#full_info-class_method">+ (Hash) <strong>full_info</strong>(sid) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Gets the full show info (info + season list + episode list) for a Show.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="info (class method)" href="#info-class_method">+ (Hash) <strong>info</strong>(sid) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Gets the info for a Show.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#episode_list (instance method)" href="#episode_list-instance_method">- (Array) <strong>episode_list</strong> </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">The list of episodes.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#initialize (instance method)" href="#initialize-instance_method">- (Show) <strong>initialize</strong>(id, options = {}) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Returns a new instance of Show, loading and then mapping info from the TVRage API.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#season_list (instance method)" href="#season_list-instance_method">- (Array) <strong>season_list</strong> </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">The list of seasons.</span>
+  
+</li>
+
+    
+  </ul>
+
+
+  
+  
+  
+  
+  
+  
+  <h3 class="inherited">Methods included from <a title="Sofa::Mapping" href="../Mapping.html">Sofa::Mapping</a></h3>
+  <p class="inherited"><a title="included" href="../Mapping.html#included-class_method">included</a></p>
+<div id="constructor_details">
+  <h2>Constructor Details</h2>
+  
+    <div class="method_details first">
+  <p class="signature first" id="initialize-instance_method">
+  
+    - (<tt><a title="Show" href="">Show</a></tt>) <strong>initialize</strong>(id, options = {}) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Returns a new instance of Show, loading and then mapping info from the TVRage API.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+        <span class='name'>id</span>
+      
+      
+      
+        &mdash;
+        The show_id as per the TVRage API
+      
+    </li>
+  
+</ul>
+
+  
+    
+    
+    
+    
+    <h3>Options Hash (<tt>options</tt>):</h3>
+    <ul class="option">
+      
+        <li>
+          <span class="type">(<tt>Boolean</tt>)</span>
+          <span class="name">:greedy</span>
+          <span class="default">
+            
+              <span class="na">N/A</span>
+            
+          </span>
+          &mdash;Whether or not to eager load the Season and Episode info
+        </tr>
+      
+    </ul>
+  
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt><a title="Show" href="">Show</a></tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        a new instance of +Show+
+      
+    </li>
+  
+</ul>
+<h3>Raises:</h3>
+<ul class="raise">
+  
+    <li>
+      
+        <span class='type'>(<tt>RuntimeError</tt>)</span>
+      
+      
+      
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+107
+108
+109
+110
+111
+112
+113
+114
+115</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 107</span>
+
+def initialize(id, options = {})
+  raise RuntimeError.new("id is required") unless (@show_id = id)
+  klass = self.class
+  if options[:greedy]
+    update_with_mapping(@greedy = klass.full_info(@show_id))
+  else
+    update_with_mapping(klass.info(@show_id))
+  end
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+  
+</div>
+
+  <div id="attr_details">
+    <h2>Attribute Details</h2>
+    
+      
+      <span id="greedy=-instance_method"></span>
+      <span id="greedy-instance_method"></span>
+      <div class="method_details first">
+  <p class="signature first" id="greedy-instance_method">
+  
+    - (<tt>Hash</tt>) <strong>greedy</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Stores all the info that was greedy-loaded</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The full show info (including seasons and episodes)
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Show.full_info" href="#full_info-class_method">Show.full_info</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+101
+102
+103</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 101</span>
+
+def greedy
+  @greedy
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+  </div>
+
+
+  <div id="method_details">
+    <h2>Method Details</h2>
+    
+      <div class="method_details first">
+  <p class="signature first" id="by_name-class_method">
+  
+    + (<tt><a title="Show" href="">Show</a></tt>) <strong>by_name</strong>(name, options = {}) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Finds the Show by name using TVRage&#8217;s Quickinfo API.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+        <span class='name'>name</span>
+      
+      
+      
+        &mdash;
+        The name of the show to search for
+      
+    </li>
+  
+</ul>
+
+  
+    
+    
+    
+    
+    <h3>Options Hash (<tt>options</tt>):</h3>
+    <ul class="option">
+      
+        <li>
+          <span class="type">(<tt>Boolean</tt>)</span>
+          <span class="name">:greedy</span>
+          <span class="default">
+            
+              <span class="na">N/A</span>
+            
+          </span>
+          &mdash;Whether or not to eager load the Season and Episode info
+        </tr>
+      
+    </ul>
+  
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt><a title="Show" href="">Show</a></tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The show with id parsed from the Quickinfo search
+      
+    </li>
+  
+</ul>
+<h3>Raises:</h3>
+<ul class="raise">
+  
+    <li>
+      
+        <span class='type'>(<tt><a title="ShowNotFound" href="Show/ShowNotFound.html">ShowNotFound</a></tt>)</span>
+      
+      
+      
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="TVRage Quickinfo API" href="http://services.tvrage.com/index.php?page=public&go=quickinfo">TVRage Quickinfo API</a></li>
+    
+      <li><a title="Chuck's Quickinfo" href="http://services.tvrage.com/tools/quickinfo.php?show=Chuck">Chuck's Quickinfo</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+50
+51
+52
+53
+54
+55
+56</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 50</span>
+
+def by_name(name, options = {})
+  html = get('/tools/quickinfo.php', :query => {:show => name}, :format => :html)
+  show_info = Crack::XML.parse(html)["pre"]
+  raise ShowNotFound unless show_info
+  id = show_info.split("\n").first.gsub(%r{^Show ID@}, '').strip
+  Show.new(id, options)
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="episode_list-class_method">
+  
+    + (<tt>Hash</tt>) <strong>episode_list</strong>(sid) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Gets the episode list for a Show.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+        <span class='name'>sid</span>
+      
+      
+      
+        &mdash;
+        The show&#8217;s id
+      
+    </li>
+  
+</ul>
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The parsed XML
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Chuck's Episode List" href="http://services.tvrage.com/feeds/episode_list.php?sid=15614">Chuck's Episode List</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+38
+39
+40
+41</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 38</span>
+
+def episode_list(sid)
+  xml = get('/feeds/episode_list.php', :query => {:sid => sid})
+  xml["Show"]
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="full_info-class_method">
+  
+    + (<tt>Hash</tt>) <strong>full_info</strong>(sid) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Gets the full show info (info + season list + episode list) for a Show.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+        <span class='name'>sid</span>
+      
+      
+      
+        &mdash;
+        The show&#8217;s id
+      
+    </li>
+  
+</ul>
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The parsed XML
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Chuck's Full Show Info" href="http://services.tvrage.com/feeds/full_show_info.php?sid=15614">Chuck's Full Show Info</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+28
+29
+30
+31</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 28</span>
+
+def full_info(sid)
+  xml = get('/feeds/full_show_info.php', :query => {:sid => sid})
+  xml["Show"]
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="info-class_method">
+  
+    + (<tt>Hash</tt>) <strong>info</strong>(sid) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Gets the info for a Show.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Parameters:</h3>
+<ul class="param">
+  
+    <li>
+      
+        <span class='type'>(<tt>String</tt>)</span>
+      
+      
+        <span class='name'>sid</span>
+      
+      
+      
+        &mdash;
+        The show&#8217;s id
+      
+    </li>
+  
+</ul>
+<h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The parsed XML
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="Chuck's Show Info" href="http://services.tvrage.com/feeds/showinfo.php?sid=15614">Chuck's Show Info</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+18
+19
+20
+21</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 18</span>
+
+def info(sid)
+  xml = get('/feeds/showinfo.php', :query => {:sid => sid})
+  xml["Showinfo"]
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="episode_list-instance_method">
+  
+    - (<tt>Array</tt>) <strong>episode_list</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>The list of episodes</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Array</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The list of episodes
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+124
+125
+126</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 124</span>
+
+def episode_list
+  season_list.map { |season| season.episodes }.flatten
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="season_list-instance_method">
+  
+    - (<tt>Array</tt>) <strong>season_list</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>The list of seasons</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Array</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        The list of seasons
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+118
+119
+120
+121</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/tvrage/show.rb', line 118</span>
+
+def season_list
+  update_with_mapping(self.class.episode_list(@show_id)) unless @season_list
+  @season_list
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+  </div>
+
+</div>
+    
+    <div id="footer">
+  Generated on Sat Nov 21 20:13:53 2009 by 
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool">yard</a>
+  0.4.0 (ruby-1.8.7).
+</div>
+
+  </body>
+</html>

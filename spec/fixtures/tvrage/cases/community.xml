@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Show>
+  <name>Community</name>
+  <totalseasons>1</totalseasons>
+  <showid>22589</showid>
+  <showlink>http://tvrage.com/shows/id-22589</showlink>
+  <started>Sep/17/2009</started>
+  <ended/>
+  <image>http://images.tvrage.com/shows/23/22589.jpg</image>
+  <origin_country>US</origin_country>
+  <status>New Series</status>
+  <classification>Scripted</classification>
+  <genres>
+    <genre>Comedy</genre>
+  </genres>
+  <runtime>30</runtime>
+  <network country="US">NBC</network>
+  <airtime>20:00</airtime>
+  <airday>Thursday</airday>
+  <timezone>GMT-5 -DST</timezone>
+  <Episodelist>
+    <Season no="1">
+      <episode>
+        <epnum>1</epnum>
+        <seasonnum>01</seasonnum>
+        <prodnum>101</prodnum>
+        <airdate>2009-09-17</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064808193</link>
+        <title>Pilot</title>
+      </episode>
+      <episode>
+        <epnum>2</epnum>
+        <seasonnum>02</seasonnum>
+        <prodnum/>
+        <airdate>2009-09-24</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064846927</link>
+        <title>Spanish 101</title>
+      </episode>
+      <episode>
+        <epnum>3</epnum>
+        <seasonnum>03</seasonnum>
+        <prodnum/>
+        <airdate>2009-10-01</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064850884</link>
+        <title>Introduction to Film</title>
+      </episode>
+      <episode>
+        <epnum>4</epnum>
+        <seasonnum>04</seasonnum>
+        <prodnum>106</prodnum>
+        <airdate>2009-10-08</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064852871</link>
+        <title>Social Psychology</title>
+      </episode>
+      <episode>
+        <epnum>5</epnum>
+        <seasonnum>05</seasonnum>
+        <prodnum/>
+        <airdate>2009-10-15</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064860018</link>
+        <title>Advanced Criminal Law</title>
+        <screencap>http://images.tvrage.com/screencaps/113/22589/1064860018.jpg</screencap>
+      </episode>
+      <episode>
+        <epnum>6</epnum>
+        <seasonnum>06</seasonnum>
+        <prodnum/>
+        <airdate>2009-10-22</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064863630</link>
+        <title>Football, Feminism and You</title>
+        <screencap>http://images.tvrage.com/screencaps/113/22589/1064863630.jpg</screencap>
+      </episode>
+      <episode>
+        <epnum>7</epnum>
+        <seasonnum>07</seasonnum>
+        <prodnum/>
+        <airdate>2009-10-29</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064866084</link>
+        <title>Introduction to Statistics</title>
+        <screencap>http://images.tvrage.com/screencaps/113/22589/1064866084.jpg</screencap>
+      </episode>
+      <episode>
+        <epnum>8</epnum>
+        <seasonnum>08</seasonnum>
+        <prodnum/>
+        <airdate>2009-11-05</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064866085</link>
+        <title>Home Economics</title>
+        <screencap>http://images.tvrage.com/screencaps/113/22589/1064866085.jpg</screencap>
+      </episode>
+      <episode>
+        <epnum>9</epnum>
+        <seasonnum>09</seasonnum>
+        <prodnum/>
+        <airdate>2009-11-12</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064870969</link>
+        <title>Debate 109</title>
+      </episode>
+      <episode>
+        <epnum>10</epnum>
+        <seasonnum>10</seasonnum>
+        <prodnum/>
+        <airdate>2009-11-19</airdate>
+        <link>http://www.tvrage.com/shows/id-22589/episodes/1064870970</link>
+        <title>Environmental Science</title>
+      </episode>
+    </Season>
+  </Episodelist>
+</Show>

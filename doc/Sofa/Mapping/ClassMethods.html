@@ -1,0 +1,314 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta name="Content-Type" content="text/html; charset=UTF-8" />
+<title>Module: Sofa::Mapping::ClassMethods</title>
+<link rel="stylesheet" href="../../css/style.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="../../css/common.css" type="text/css" media="screen" charset="utf-8" />
+
+<script type="text/javascript" charset="utf-8">
+  relpath = '../..';
+  if (relpath != '') relpath += '/';
+</script>
+<script type="text/javascript" charset="utf-8" src="../../js/jquery.js"></script>
+<script type="text/javascript" charset="utf-8" src="../../js/app.js"></script>
+
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+  
+    <a href="../../_index.html">Index (C)</a> &raquo; 
+    <a title="Sofa" href="../../Sofa.html">Sofa</a> &raquo; <a title="Mapping" href="../Mapping.html">Mapping</a>
+     &raquo; 
+    <span class="title">ClassMethods</span>
+  
+</div>
+
+      <div id="search">
+  <a id="class_list_link" href="#">Namespace List</a>
+  <a id="method_list_link" href="#">Method List</a>
+  <a id ="file_list_link" href="#">File List</a>
+</div>
+
+      <div class="clear"></div>
+    </div>
+    
+    <iframe id="search_frame"></iframe>
+    
+    <div id="content"><h1>Module: Sofa::Mapping::ClassMethods 
+  
+  
+</h1>
+
+<dl class="box">
+  
+  
+    
+  
+    
+  
+  
+    <dt class="r1 last">Defined in:</dt>
+    <dd class="r1 last">lib/sofa/mapping.rb</dd>
+  
+</dl>
+<div class="clear"></div>
+
+
+
+
+  <h2>Method Summary</h2>
+  <ul class="summary">
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#mappings (instance method)" href="#mappings-instance_method">- (Hash&lt;Symbol, Symbol&gt;) <strong>mappings</strong> </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Mapping of symbols to attribute names.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#mappings_procs (instance method)" href="#mappings_procs-instance_method">- (Hash&lt;Symbol, Proc&gt;) <strong>mappings_procs</strong> </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Mapping of attribute names to a Proc filter.</span>
+  
+</li>
+
+    
+      <li class="public ">
+  <span class="summary_signature"><a title="#maps (instance method)" href="#maps-instance_method">- (Object) <strong>maps</strong>(hash = {}, &amp;block) </a>
+  
+  </span>
+  
+  
+  
+  
+
+  
+    <span class="summary_desc">Class method to define mappings.</span>
+  
+</li>
+
+    
+  </ul>
+
+
+
+  <div id="method_details">
+    <h2>Method Details</h2>
+    
+      <div class="method_details first">
+  <p class="signature first" id="mappings-instance_method">
+  
+    - (<tt>Hash&lt;Symbol, Symbol&gt;</tt>) <strong>mappings</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Mapping of symbols to attribute names</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash&lt;Symbol, Symbol&gt;</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        Mapping of symbols to attribute names
+      
+    </li>
+  
+</ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+96
+97
+98</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 96</span>
+
+def mappings 
+  @mappings
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="mappings_procs-instance_method">
+  
+    - (<tt>Hash&lt;Symbol, Proc&gt;</tt>) <strong>mappings_procs</strong> 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Mapping of attribute names to a Proc filter.</p>
+
+  </div>
+</div>
+<div class="tags">
+  <h3>Returns:</h3>
+<ul class="return">
+  
+    <li>
+      
+        <span class='type'>(<tt>Hash&lt;Symbol, Proc&gt;</tt>)</span>
+      
+      
+      
+      
+        &mdash;
+        Mapping of attribute names to a Proc filter.
+      
+    </li>
+  
+</ul>
+
+  <h3>See Also:</h3>
+  <ul class="see">
+    
+      <li><a title="#maps" href="#maps-instance_method">#maps</a></li>
+    
+  </ul>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+103
+104
+105</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 103</span>
+
+def mappings_procs 
+  @mappings_procs
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+      <div class="method_details ">
+  <p class="signature " id="maps-instance_method">
+  
+    - (<tt>Object</tt>) <strong>maps</strong>(hash = {}, &amp;block) 
+  
+
+  
+</p><div class="docstring">
+  <div class="discussion">
+    <p>Class method to define mappings.</p>
+
+  </div>
+</div>
+<div class="tags">
+  
+  <div class="examples">
+    <h3>Examples:</h3>
+    
+      <h4>Maps :examplename to :name and :link to itself.</h4>
+      <pre class="example code">  class Example1
+    include Sofa::Mapping
+    maps(
+      :examplename => :name,
+      :link        => nil
+    )
+  end
+  example1 = Example1.new.update_with_mapping(:epnum => "1", :link => "http://google.com")
+  example1.name       # => "1"
+  example1.link       # => "http://google.com"
+  example1.attributes # => {:name => "1", :link => "http://google.com"}</pre>
+    
+      <h4>Maps :airdate to :air_date and stores the block.</h4>
+      <pre class="example code">  class Example2
+    include Sofa::Mapping
+
+    maps(:airdate => :air_date) do |value|
+      Date.parse(value)
+    end
+  end
+  example2 = Example2.new.update_with_mapping(:airdate => "2007-07-04")
+  example2.attributes # => {:air_date => Wed, 04 Jul 2007}</pre>
+    
+  </div>
+
+</div><table class="source_code">
+  <tr>
+    <td>
+      <pre class="lines">
+
+
+85
+86
+87
+88
+89
+90
+91
+92</pre>
+    </td>
+    <td>
+      <pre class="code"><span class="info file"># File 'lib/sofa/mapping.rb', line 85</span>
+
+def maps(hash = {}, &block)
+  hash.each do |from, to|
+    method = to || from
+    @mappings[from.to_sym] = method
+    attr_reader method
+    @mappings_procs[method] = block
+  end
+end</pre>
+    </td>
+  </tr>
+</table>
+</div>
+    
+  </div>
+
+</div>
+    
+    <div id="footer">
+  Generated on Sat Nov 21 20:13:52 2009 by 
+  <a href="http://yardoc.org" title="Yay! A Ruby Documentation Tool">yard</a>
+  0.4.0 (ruby-1.8.7).
+</div>
+
+  </body>
+</html>

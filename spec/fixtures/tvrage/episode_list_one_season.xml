@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Show>
+  <name>Buffy the Vampire Slayer</name>
+  <totalseasons>7</totalseasons>
+  <Episodelist>
+    <Season no="0">
+      <episode>
+        <epnum>0</epnum>
+        <seasonnum>00</seasonnum>
+        <prodnum>4V79</prodnum>
+        <airdate>0000-00-00</airdate>
+        <link>http://www.tvrage.com/Buffy_The_Vampire_Slayer/episodes/329033</link>
+        <title>Unaired Pilot</title>
+      </episode>
+    </Season>
+  </Episodelist>
+</Show>
