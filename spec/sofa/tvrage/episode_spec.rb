@@ -21,6 +21,17 @@ describe Episode do
     end
   end
 
+  it "should get episode info" do
+    id='10' 
+    season='1' 
+    episode='04'
+
+    @xml = File.read("spec/fixtures/tvrage/episode_info.xml")
+    FakeWeb.register_uri(:get, "http://services.tvrage.com/feeds/episodeinfo.php?sid=#{id}&ep=#{season}x#{episode}", :body => @xml)
+
+    Episode.info(id, season, episode).should == Crack::XML.parse(@xml)["show"]
+  end
+
   it "should have season number" do
     subject.should respond_to(:season_num)
   end

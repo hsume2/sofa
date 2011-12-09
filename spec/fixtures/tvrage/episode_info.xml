@@ -1,0 +1,30 @@
+<show id='2930'>
+	<name>Buffy the Vampire Slayer</name>
+	<link>http://www.tvrage.com/Buffy_The_Vampire_Slayer</link>
+	<started>1997-03-10</started>
+	<ended>2003-05-20</ended>
+	<country>USA</country>
+	<status>Canceled/Ended</status>
+	<classification>Scripted</classification>
+	<genres>
+		<genre>Action</genre>
+		<genre>Adventure</genre>
+		<genre>Comedy</genre>
+		<genre>Drama</genre>
+		<genre>Mystery</genre>
+		<genre>Sci-Fi</genre>
+	</genres>
+	<airtime>Tuesday at 08:00 pm</airtime>
+	<runtime>60</runtime>
+	<episode>
+		<number>02x04</number>
+		<title>Inca Mummy Girl</title>
+		<airdate>1997-10-06</airdate>
+		<url>http://www.tvrage.com/Buffy_The_Vampire_Slayer/episodes/28092</url>
+	</episode>
+	<latestepisode>
+		<number>07x22</number>
+		<title>Chosen</title>
+		<airdate>2003-05-20</airdate>
+	</latestepisode>
+</show>
