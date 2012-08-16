@@ -6,6 +6,23 @@ module Sofa
     class Episode
       include Mapping
 
+      include HTTParty
+      format :xml
+      base_uri 'services.tvrage.com'
+
+      class << self
+        # Gets the info for a Episode.
+        #
+        # @param sid [String] The show's id
+        # @return [Hash] The parsed XML
+        # @see http://services.tvrage.com/feeds/episodeinfo.php?sid=2930&ep=2x04
+        def info(sid, season_no, ep_num)
+          xml = get('/feeds/episodeinfo.php', :query => {:sid => sid, :ep => "#{season_no}x#{ep_num}"})
+          xml["show"]
+        end
+      end
+
+
       # @see Sofa::Mapping
       maps(
         :epnum     => :num,
