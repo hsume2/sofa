@@ -13,6 +13,7 @@ begin
     gem.homepage = "http://github.com/hsume2/sofa"
     gem.authors = ["Henry Hsu"]
     gem.add_dependency "httparty"
+    gem.add_dependency "crack"
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_development_dependency "mocha"
     gem.add_development_dependency "fakeweb"
