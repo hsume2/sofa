@@ -1,6 +1,6 @@
 # Sofa
 
-A simple Ruby library for the TVRage API (viewable [here](http://services.tvrage.com/index.php?page=public)).
+A simple Ruby library for the TVRage API (viewable [here](http://services.tvrage.com/info.php?page=main)).
 
 ## Shows
 
