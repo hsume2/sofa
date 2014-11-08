@@ -10,6 +10,15 @@ module Sofa
       base_uri 'services.tvrage.com'
 
       class << self
+        # Gets the list of all shows
+        #
+        # @return [Hash] The parsed XML
+        # @see http://services.tvrage.com/feeds/show_list.php
+        def list
+          xml = get('/feeds/show_list.php', query: {})
+          xml["shows"]['show']
+        end
+
         # Gets the info for a Show.
         #
         # @param sid [String] The show's id
