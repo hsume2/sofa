@@ -8,6 +8,11 @@ A simple Ruby library for the TVRage API (viewable [here](http://services.tvrage
     OR
     show = Sofa::TVRage::Show.new("15614") # => #<Sofa::TVRage::Show:0x1012ec3c0 @name="Chuck", @show_id="15614", ...>
 
+#### List
+    Sofa::TVRage::Show.list #=> [ {"id"=>"1", "name"=>"Fernwood 2Night", "country"=>"US", "status"=>"2"},
+                                  {"id"=>"2", "name"=>"America 2Night", "country"=>"US", "status"=>"2"}}, {}
+                                ]
+
 #### Eager loading Season and Episode info
 
     Sofa::TVRage::Show.by_name("Chuck", :greedy => true)
