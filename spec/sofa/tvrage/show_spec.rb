@@ -9,6 +9,20 @@ describe Show do
     FakeWeb.register_uri(:get, "http://services.tvrage.com/feeds/showinfo.php?sid=#{@id}", :body => @show_xml)
   end
 
+  describe "show list" do
+    before do
+      @shows_xml = File.read("spec/fixtures/tvrage/show_list.xml")
+      FakeWeb.register_uri(:get, "http://services.tvrage.com/feeds/show_list.php", :body => @shows_xml)
+
+      @info = Crack::XML.parse(@shows_xml)
+      @shows = [Season.new(@info["Shows"]["show"])]
+    end
+
+    it "should get shows_list" do
+      subject.list.should == @shows
+    end
+  end
+
   describe "with id" do
     subject { Show.new(@id) }
 
